@@ -1,0 +1,3267 @@
+[2025-12-18 14:37:20] INFO : Logger setup successful
+[2025-12-18 14:37:20] ERROR : Sample error log
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:08:11] INFO : SELECT : Log in 
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:10:36] INFO : SELECT : Log in 
+[2025-12-18 19:10:36] INFO : Selected Name: Log in
+[2025-12-18 19:10:36] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:10:37] INFO : SUCCESS: Fill Input
+[2025-12-18 19:10:37] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:10:37] INFO : SUCCESS: Fill Input
+[2025-12-18 19:10:37] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:11:54] INFO : SELECT : Log in 
+[2025-12-18 19:11:54] INFO : Selected Name: Log in
+[2025-12-18 19:11:54] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:11:54] INFO : SUCCESS: Fill Input
+[2025-12-18 19:11:54] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:11:54] INFO : SUCCESS: Fill Input
+[2025-12-18 19:11:54] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:17:18] INFO : SELECT : Log in 
+[2025-12-18 19:17:18] INFO : Selected Name: Log in
+[2025-12-18 19:17:18] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:17:18] INFO : SUCCESS: Fill Input
+[2025-12-18 19:17:18] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:17:18] INFO : SUCCESS: Fill Input
+[2025-12-18 19:17:18] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:19:08] INFO : SELECT : Log in 
+[2025-12-18 19:19:08] INFO : Selected Name: Log in
+[2025-12-18 19:19:08] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:19:09] INFO : SUCCESS: Fill Input
+[2025-12-18 19:19:09] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:19:09] INFO : SUCCESS: Fill Input
+[2025-12-18 19:19:09] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:22:43] INFO : SELECT : Log in 
+[2025-12-18 19:22:44] INFO : Selected Name: Log in
+[2025-12-18 19:22:44] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:22:44] INFO : SUCCESS: Fill Input
+[2025-12-18 19:22:44] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:22:44] INFO : SUCCESS: Fill Input
+[2025-12-18 19:22:44] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:24:01] INFO : SELECT : Log in 
+[2025-12-18 19:24:02] INFO : Selected Name: Log in
+[2025-12-18 19:24:02] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:24:02] INFO : SUCCESS: Fill Input
+[2025-12-18 19:24:02] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:24:02] INFO : SUCCESS: Fill Input
+[2025-12-18 19:24:02] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:32:41] INFO : SELECT : Log in 
+[2025-12-18 19:32:41] INFO : Selected Name: Log in
+[2025-12-18 19:32:41] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:32:42] INFO : SUCCESS: Fill Input
+[2025-12-18 19:32:42] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:32:42] INFO : SUCCESS: Fill Input
+[2025-12-18 19:32:42] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:41:51] INFO : SELECT : Log in 
+[2025-12-18 19:41:51] INFO : Selected Name: Log in
+[2025-12-18 19:41:51] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:41:52] INFO : SUCCESS: Fill Input
+[2025-12-18 19:41:52] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:41:52] INFO : SUCCESS: Fill Input
+[2025-12-18 19:41:52] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : Navigate to URL: /
+[2025-12-18 19:41:58] INFO : SELECT : Laptops 
+[2025-12-18 19:41:58] INFO : Selected Name: Laptops
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : Navigate to URL: /
+[2025-12-18 19:42:00] INFO : SELECT : Phones 
+[2025-12-18 19:42:00] INFO : Selected Name: Phones
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:56:49] INFO : SELECT : Log in 
+[2025-12-18 19:56:49] INFO : Selected Name: Log in
+[2025-12-18 19:56:49] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:56:50] INFO : SUCCESS: Fill Input
+[2025-12-18 19:56:50] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:56:50] INFO : SUCCESS: Fill Input
+[2025-12-18 19:56:50] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:58:29] INFO : SELECT : Log in 
+[2025-12-18 19:58:29] INFO : Selected Name: Log in
+[2025-12-18 19:58:29] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:58:29] INFO : SUCCESS: Fill Input
+[2025-12-18 19:58:29] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:58:29] INFO : SUCCESS: Fill Input
+[2025-12-18 19:58:29] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : Navigate to URL: /
+[2025-12-18 19:58:34] INFO : SELECT : Laptops 
+[2025-12-18 19:58:35] INFO : Selected Name: Laptops
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : Navigate to URL: /
+[2025-12-18 19:58:36] INFO : SELECT : Phones 
+[2025-12-18 19:58:37] INFO : Selected Name: Phones
+[2025-12-18 19:58:37] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 19:58:37] INFO : Navigating to next page
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:01:45] INFO : SELECT : Log in 
+[2025-12-18 20:01:45] INFO : Selected Name: Log in
+[2025-12-18 20:01:45] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:01:46] INFO : SUCCESS: Fill Input
+[2025-12-18 20:01:46] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:01:46] INFO : SUCCESS: Fill Input
+[2025-12-18 20:01:46] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : Navigate to URL: /
+[2025-12-18 20:01:51] INFO : SELECT : Laptops 
+[2025-12-18 20:01:51] INFO : Selected Name: Laptops
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : Navigate to URL: /
+[2025-12-18 20:01:52] INFO : SELECT : Phones 
+[2025-12-18 20:01:53] INFO : Selected Name: Phones
+[2025-12-18 20:01:53] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 20:01:53] INFO : Navigating to next page
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:07:22] INFO : SELECT : Log in 
+[2025-12-18 20:07:23] INFO : Selected Name: Log in
+[2025-12-18 20:07:23] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:07:23] INFO : SUCCESS: Fill Input
+[2025-12-18 20:07:23] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:07:23] INFO : SUCCESS: Fill Input
+[2025-12-18 20:07:23] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : Navigate to URL: /
+[2025-12-18 20:07:28] INFO : SELECT : Laptops 
+[2025-12-18 20:07:28] INFO : Selected Name: Laptops
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : Navigate to URL: /
+[2025-12-18 20:07:30] INFO : SELECT : Phones 
+[2025-12-18 20:07:30] INFO : Selected Name: Phones
+[2025-12-18 20:07:30] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 20:07:31] INFO : Navigating to next page
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:55:22] INFO : SELECT : Log in 
+[2025-12-18 20:55:22] INFO : Selected Name: Log in
+[2025-12-18 20:55:22] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:55:22] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:22] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:55:22] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:22] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : Navigate to URL: /
+[2025-12-18 20:55:27] INFO : SELECT : Laptops 
+[2025-12-18 20:55:27] INFO : Selected Name: Laptops
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : Navigate to URL: /
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:55:36] INFO : SELECT : Log in 
+[2025-12-18 20:55:36] INFO : Selected Name: Log in
+[2025-12-18 20:55:36] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:55:37] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:37] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:55:37] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:37] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : Navigate to URL: /
+[2025-12-18 20:55:43] INFO : SELECT : Laptops 
+[2025-12-18 20:55:43] INFO : Selected Name: Laptops
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : Navigate to URL: /
+[2025-12-18 20:55:45] INFO : SELECT : Phones 
+[2025-12-18 20:55:45] INFO : Selected Name: Phones
+[2025-12-18 20:55:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:31:30] INFO : SELECT : Log in 
+[2025-12-18 21:31:30] INFO : Selected Name: Log in
+[2025-12-18 21:31:30] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:31:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:31:30] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:31:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:31:30] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : Navigate to URL: /
+[2025-12-18 21:31:35] INFO : SELECT : Laptops 
+[2025-12-18 21:31:36] INFO : Selected Name: Laptops
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : Navigate to URL: /
+[2025-12-18 21:31:37] INFO : SELECT : Phones 
+[2025-12-18 21:31:38] INFO : Selected Name: Phones
+[2025-12-18 21:31:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:32:35] INFO : SELECT : Log in 
+[2025-12-18 21:32:35] INFO : Selected Name: Log in
+[2025-12-18 21:32:35] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:32:35] INFO : SUCCESS: Fill Input
+[2025-12-18 21:32:35] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:32:35] INFO : SUCCESS: Fill Input
+[2025-12-18 21:32:35] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : Navigate to URL: /
+[2025-12-18 21:32:40] INFO : SELECT : Laptops 
+[2025-12-18 21:32:40] INFO : Selected Name: Laptops
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : Navigate to URL: /
+[2025-12-18 21:32:42] INFO : SELECT : Phones 
+[2025-12-18 21:32:42] INFO : Selected Name: Phones
+[2025-12-18 21:32:42] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:39:29] INFO : SELECT : Log in 
+[2025-12-18 21:39:29] INFO : Selected Name: Log in
+[2025-12-18 21:39:29] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:39:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:39:30] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:39:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:39:30] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : Navigate to URL: /
+[2025-12-18 21:39:35] INFO : SELECT : Laptops 
+[2025-12-18 21:39:35] INFO : Selected Name: Laptops
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : Navigate to URL: /
+[2025-12-18 21:39:37] INFO : SELECT : Phones 
+[2025-12-18 21:39:37] INFO : Selected Name: Phones
+[2025-12-18 21:39:37] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 22:02:01] INFO : SELECT : Log in 
+[2025-12-18 22:02:01] INFO : Selected Name: Log in
+[2025-12-18 22:02:01] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 22:02:02] INFO : SUCCESS: Fill Input
+[2025-12-18 22:02:02] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 22:02:02] INFO : SUCCESS: Fill Input
+[2025-12-18 22:02:02] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : Navigate to URL: /
+[2025-12-18 22:02:07] INFO : SELECT : Laptops 
+[2025-12-18 22:02:07] INFO : Selected Name: Laptops
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : Navigate to URL: /
+[2025-12-18 22:02:09] INFO : SELECT : Phones 
+[2025-12-18 22:02:09] INFO : Selected Name: Phones
+[2025-12-18 22:02:09] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 22:18:10] INFO : SELECT : Log in 
+[2025-12-18 22:18:10] INFO : Selected Name: Log in
+[2025-12-18 22:18:10] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 22:18:10] INFO : SUCCESS: Fill Input
+[2025-12-18 22:18:10] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 22:18:10] INFO : SUCCESS: Fill Input
+[2025-12-18 22:18:10] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : Navigate to URL: /
+[2025-12-18 22:18:16] INFO : SELECT : Laptops 
+[2025-12-18 22:18:16] INFO : Selected Name: Laptops
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : Navigate to URL: /
+[2025-12-18 22:18:18] INFO : SELECT : Phones 
+[2025-12-18 22:18:18] INFO : Selected Name: Phones
+[2025-12-18 22:18:18] INFO : Waiting for items to load after category selection
+[2025-12-18 22:18:18] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:18:19] INFO : Item clicked: Iphone 6 32gb
+[2025-12-23 16:39:22] INFO : BasePage Initialized
+[2025-12-23 16:39:22] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-23 16:40:17] INFO : SELECT : Log in 
+[2025-12-23 16:40:17] INFO : Selected Name: Log in
+[2025-12-23 16:40:17] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-23 16:40:18] INFO : SUCCESS: Fill Input
+[2025-12-23 16:40:18] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-23 16:40:18] INFO : SUCCESS: Fill Input
+[2025-12-23 16:40:18] INFO : ACTION -> CLICKING: Click Element
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : Navigate to URL: /
+[2025-12-23 16:40:24] INFO : SELECT : Laptops 
+[2025-12-23 16:40:25] INFO : Selected Name: Laptops
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : Navigate to URL: /
+[2025-12-23 16:40:27] INFO : SELECT : Phones 
+[2025-12-23 16:40:27] INFO : Selected Name: Phones
+[2025-12-23 16:40:27] INFO : Waiting for items to load after category selection
+[2025-12-23 16:40:27] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-23 16:40:28] INFO : Item clicked: Iphone 6 32gb
+[2025-12-23 17:44:42] INFO : BasePage Initialized
+[2025-12-23 17:44:42] INFO : BasePage Initialized
+[2025-12-23 17:44:42] INFO : BasePage Initialized
+[2025-12-23 17:44:42] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-23 17:45:09] INFO : BasePage Initialized
+[2025-12-23 17:45:09] INFO : BasePage Initialized
+[2025-12-23 17:45:09] INFO : BasePage Initialized
+[2025-12-23 17:45:09] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-23 17:45:10] INFO : SELECT : Log in 
+[2025-12-23 17:45:10] INFO : Selected Name: Log in
+[2025-12-23 17:45:10] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-23 17:45:11] INFO : SUCCESS: Fill Input
+[2025-12-23 17:45:11] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-23 17:45:11] INFO : SUCCESS: Fill Input
+[2025-12-23 17:45:11] INFO : ACTION -> CLICKING: Click Element
+[2025-12-23 18:02:06] INFO : BasePage Initialized
+[2025-12-23 18:02:06] INFO : BasePage Initialized
+[2025-12-23 18:02:06] INFO : BasePage Initialized
+[2025-12-23 18:02:06] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-23 18:02:07] INFO : SELECT : Log in 
+[2025-12-23 18:02:07] INFO : Selected Name: Log in
+[2025-12-23 18:02:07] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-23 18:02:08] INFO : SUCCESS: Fill Input
+[2025-12-23 18:02:08] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-23 18:02:08] INFO : SUCCESS: Fill Input
+[2025-12-23 18:02:08] INFO : ACTION -> CLICKING: Click Element
+[2025-12-23 18:02:15] INFO : BasePage Initialized
+[2025-12-23 18:02:15] INFO : BasePage Initialized
+[2025-12-23 18:02:15] INFO : BasePage Initialized
+[2025-12-23 18:02:15] INFO : Navigate to URL: /
+[2025-12-23 18:02:16] INFO : SELECT : Laptops 
+[2025-12-23 18:02:17] INFO : Selected Name: Laptops
+[2025-12-23 18:02:17] INFO : BasePage Initialized
+[2025-12-23 18:02:17] INFO : BasePage Initialized
+[2025-12-23 18:02:17] INFO : BasePage Initialized
+[2025-12-23 18:02:17] INFO : Navigate to URL: /
+[2025-12-23 18:02:18] INFO : SELECT : Phones 
+[2025-12-23 18:02:19] INFO : Selected Name: Phones
+[2025-12-23 18:02:19] INFO : Waiting for items to load after category selection
+[2025-12-23 18:02:20] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-23 18:02:20] INFO : Item clicked: Iphone 6 32gb
+[2025-12-29 15:44:11] INFO : BasePage Initialized
+[2025-12-29 15:44:11] INFO : BasePage Initialized
+[2025-12-29 15:44:11] INFO : BasePage Initialized
+[2025-12-29 15:44:11] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 15:44:12] INFO : SELECT : Phones 
+[2025-12-29 15:44:12] INFO : Selected Name: Phones
+[2025-12-29 15:44:12] INFO : Validation of displayed items
+[2025-12-29 15:44:12] INFO : Number of items displayed: 0
+[2025-12-29 15:44:12] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 15:55:43] INFO : BasePage Initialized
+[2025-12-29 15:55:43] INFO : BasePage Initialized
+[2025-12-29 15:55:43] INFO : BasePage Initialized
+[2025-12-29 15:55:43] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 15:56:09] INFO : BasePage Initialized
+[2025-12-29 15:56:09] INFO : BasePage Initialized
+[2025-12-29 15:56:09] INFO : BasePage Initialized
+[2025-12-29 15:56:09] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 15:56:33] INFO : BasePage Initialized
+[2025-12-29 15:56:33] INFO : BasePage Initialized
+[2025-12-29 15:56:33] INFO : BasePage Initialized
+[2025-12-29 15:56:33] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 15:56:34] INFO : SELECT : Phones 
+[2025-12-29 15:56:34] INFO : Selected Name: Phones
+[2025-12-29 15:56:34] INFO : Validation of displayed items
+[2025-12-29 15:56:34] INFO : Number of items displayed: 0
+[2025-12-29 15:56:34] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 15:59:51] INFO : BasePage Initialized
+[2025-12-29 15:59:51] INFO : BasePage Initialized
+[2025-12-29 15:59:51] INFO : BasePage Initialized
+[2025-12-29 15:59:51] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 15:59:59] INFO : BasePage Initialized
+[2025-12-29 15:59:59] INFO : BasePage Initialized
+[2025-12-29 15:59:59] INFO : BasePage Initialized
+[2025-12-29 15:59:59] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 16:00:00] INFO : SELECT : Phones 
+[2025-12-29 16:00:00] INFO : Selected Name: Phones
+[2025-12-29 16:00:00] INFO : Validation of displayed items
+[2025-12-29 16:00:00] INFO : Number of items displayed: 0
+[2025-12-29 16:00:00] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 16:13:54] INFO : BasePage Initialized
+[2025-12-29 16:13:54] INFO : BasePage Initialized
+[2025-12-29 16:13:54] INFO : BasePage Initialized
+[2025-12-29 16:13:54] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 16:13:55] INFO : SELECT : Phones 
+[2025-12-29 16:13:55] INFO : Selected Name: Phones
+[2025-12-29 16:13:55] INFO : Validation of displayed items
+[2025-12-29 16:13:55] INFO : Number of items displayed: 0
+[2025-12-29 16:13:55] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 16:15:01] INFO : BasePage Initialized
+[2025-12-29 16:15:01] INFO : BasePage Initialized
+[2025-12-29 16:15:01] INFO : BasePage Initialized
+[2025-12-29 16:15:01] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 16:15:02] INFO : SELECT : Phones 
+[2025-12-29 16:15:02] INFO : Selected Name: Phones
+[2025-12-29 16:15:02] INFO : Validation of displayed items
+[2025-12-29 16:15:02] INFO : Number of items displayed: 0
+[2025-12-29 16:15:02] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 17:26:09] INFO : BasePage Initialized
+[2025-12-29 17:26:09] INFO : BasePage Initialized
+[2025-12-29 17:26:09] INFO : BasePage Initialized
+[2025-12-29 17:26:09] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 17:26:10] INFO : SELECT : Phones 
+[2025-12-29 17:26:11] INFO : Selected Name: Phones
+[2025-12-29 17:26:11] INFO : Validation of displayed items
+[2025-12-29 17:26:11] INFO : Number of items displayed: 0
+[2025-12-29 17:26:11] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThan[2m([22m[32mexpected[39m[2m)[22m
+
+Expected: > [32m0[39m
+Received:   [31m0[39m
+[2025-12-29 17:40:25] INFO : BasePage Initialized
+[2025-12-29 17:40:25] INFO : BasePage Initialized
+[2025-12-29 17:40:25] INFO : BasePage Initialized
+[2025-12-29 17:40:25] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 17:40:25] INFO : SELECT : Phones 
+[2025-12-29 17:40:25] INFO : Selected Name: Phones
+[2025-12-29 17:40:25] INFO : Waiting for items to load after category selection
+[2025-12-29 17:40:26] INFO : Validation of displayed items
+[2025-12-29 17:40:26] INFO : Number of items displayed: 7
+[2025-12-29 17:40:26] INFO : UI item found: Samsung galaxy s6
+[2025-12-29 17:40:26] INFO : UI item found: Nokia lumia 1520
+[2025-12-29 17:40:26] INFO : UI item found: Nexus 6
+[2025-12-29 17:40:26] INFO : UI item found: Samsung galaxy s7
+[2025-12-29 17:40:26] INFO : UI item found: Iphone 6 32gb
+[2025-12-29 17:40:26] INFO : UI item found: Sony xperia z5
+[2025-12-29 17:40:26] INFO : UI item found: HTC One M9
+[2025-12-29 17:40:26] INFO : Validation completed successfully
+[2025-12-29 18:14:26] INFO : BasePage Initialized
+[2025-12-29 18:14:26] INFO : BasePage Initialized
+[2025-12-29 18:14:26] INFO : BasePage Initialized
+[2025-12-29 18:14:26] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-29 18:14:27] INFO : SELECT : Phones 
+[2025-12-29 18:14:27] INFO : Selected Name: Phones
+[2025-12-29 18:14:27] INFO : Waiting for items to load after category selection
+[2025-12-29 18:14:28] INFO : Validation of displayed items
+[2025-12-29 18:14:28] INFO : Number of items displayed: 7
+[2025-12-29 18:14:28] INFO : UI item found: Samsung galaxy s6
+[2025-12-29 18:14:28] INFO : UI item found: Nokia lumia 1520
+[2025-12-29 18:14:28] INFO : UI item found: Nexus 6
+[2025-12-29 18:14:28] INFO : UI item found: Samsung galaxy s7
+[2025-12-29 18:14:28] INFO : UI item found: Iphone 6 32gb
+[2025-12-29 18:14:28] INFO : UI item found: Sony xperia z5
+[2025-12-29 18:14:28] INFO : UI item found: HTC One M9
+[2025-12-29 18:14:28] INFO : Validation completed successfully
+[2025-12-30 10:53:28] INFO : BasePage Initialized
+[2025-12-30 10:53:28] INFO : BasePage Initialized
+[2025-12-30 10:53:28] INFO : BasePage Initialized
+[2025-12-30 10:53:28] INFO : BasePage Initialized
+[2025-12-30 10:53:28] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 10:53:29] INFO : SELECT : Phones 
+[2025-12-30 10:53:30] INFO : Selected Name: Phones
+[2025-12-30 10:53:30] INFO : Waiting for items to load after category selection
+[2025-12-30 10:53:31] INFO : Validation of displayed items
+[2025-12-30 10:53:31] INFO : Number of items displayed: 7
+[2025-12-30 10:53:31] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 10:53:31] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 10:53:31] INFO : UI item found: Nexus 6
+[2025-12-30 10:53:31] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 10:53:31] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 10:53:31] INFO : UI item found: Sony xperia z5
+[2025-12-30 10:53:31] INFO : UI item found: HTC One M9
+[2025-12-30 10:53:31] INFO : Validation completed successfully
+[2025-12-30 10:53:32] INFO : BasePage Initialized
+[2025-12-30 10:53:32] INFO : BasePage Initialized
+[2025-12-30 10:53:32] INFO : BasePage Initialized
+[2025-12-30 10:53:32] INFO : BasePage Initialized
+[2025-12-30 10:53:32] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 10:53:33] INFO : SELECT : Phones 
+[2025-12-30 10:53:33] INFO : Selected Name: Phones
+[2025-12-30 10:53:33] INFO : Waiting for items to load after category selection
+[2025-12-30 10:53:34] INFO : Waiting for items to load after category selection
+[2025-12-30 10:53:34] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 10:53:34] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 10:58:57] INFO : BasePage Initialized
+[2025-12-30 10:58:57] INFO : BasePage Initialized
+[2025-12-30 10:58:57] INFO : BasePage Initialized
+[2025-12-30 10:58:57] INFO : BasePage Initialized
+[2025-12-30 10:58:57] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 10:58:58] INFO : SELECT : Phones 
+[2025-12-30 10:58:58] INFO : Selected Name: Phones
+[2025-12-30 10:58:58] INFO : Waiting for items to load after category selection
+[2025-12-30 10:59:00] INFO : Validation of displayed items
+[2025-12-30 10:59:00] INFO : Number of items displayed: 9
+[2025-12-30 10:59:00] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 10:59:00] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 10:59:00] INFO : UI item found: Nexus 6
+[2025-12-30 10:59:00] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 10:59:00] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 10:59:00] INFO : UI item found: Sony xperia z5
+[2025-12-30 10:59:00] INFO : UI item found: HTC One M9
+[2025-12-30 10:59:00] INFO : UI item found: Sony vaio i5
+[2025-12-30 10:59:01] INFO : UI item found: Sony vaio i7
+[2025-12-30 10:59:01] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2025-12-30 10:59:02] INFO : BasePage Initialized
+[2025-12-30 10:59:02] INFO : BasePage Initialized
+[2025-12-30 10:59:02] INFO : BasePage Initialized
+[2025-12-30 10:59:02] INFO : BasePage Initialized
+[2025-12-30 10:59:02] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 10:59:03] INFO : SELECT : Phones 
+[2025-12-30 10:59:03] INFO : Selected Name: Phones
+[2025-12-30 10:59:03] INFO : Waiting for items to load after category selection
+[2025-12-30 10:59:04] INFO : Waiting for items to load after category selection
+[2025-12-30 10:59:04] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 10:59:04] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 10:59:59] INFO : BasePage Initialized
+[2025-12-30 10:59:59] INFO : BasePage Initialized
+[2025-12-30 10:59:59] INFO : BasePage Initialized
+[2025-12-30 10:59:59] INFO : BasePage Initialized
+[2025-12-30 10:59:59] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 11:00:01] INFO : SELECT : Phones 
+[2025-12-30 11:00:01] INFO : Selected Name: Phones
+[2025-12-30 11:00:01] INFO : Waiting for items to load after category selection
+[2025-12-30 11:00:02] INFO : Validation of displayed items
+[2025-12-30 11:00:02] INFO : Number of items displayed: 7
+[2025-12-30 11:00:02] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 11:00:02] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 11:00:02] INFO : UI item found: Nexus 6
+[2025-12-30 11:00:02] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 11:00:02] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 11:00:02] INFO : UI item found: Sony xperia z5
+[2025-12-30 11:00:02] INFO : UI item found: HTC One M9
+[2025-12-30 11:00:02] INFO : Validation completed successfully
+[2025-12-30 11:00:03] INFO : BasePage Initialized
+[2025-12-30 11:00:03] INFO : BasePage Initialized
+[2025-12-30 11:00:03] INFO : BasePage Initialized
+[2025-12-30 11:00:03] INFO : BasePage Initialized
+[2025-12-30 11:00:03] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 11:00:04] INFO : SELECT : Phones 
+[2025-12-30 11:00:04] INFO : Selected Name: Phones
+[2025-12-30 11:00:04] INFO : Waiting for items to load after category selection
+[2025-12-30 11:00:05] INFO : Waiting for items to load after category selection
+[2025-12-30 11:00:05] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 11:00:05] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 11:43:22] INFO : BasePage Initialized
+[2025-12-30 11:43:22] INFO : BasePage Initialized
+[2025-12-30 11:43:22] INFO : BasePage Initialized
+[2025-12-30 11:43:22] INFO : BasePage Initialized
+[2025-12-30 11:43:22] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 11:43:24] INFO : SELECT : Phones 
+[2025-12-30 11:43:24] INFO : Selected Name: Phones
+[2025-12-30 11:43:24] INFO : Waiting for items to load after category selection
+[2025-12-30 11:43:25] INFO : Validation of displayed items
+[2025-12-30 11:43:25] INFO : Number of items displayed: 7
+[2025-12-30 11:43:25] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 11:43:25] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 11:43:25] INFO : UI item found: Nexus 6
+[2025-12-30 11:43:25] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 11:43:25] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 11:43:25] INFO : UI item found: Sony xperia z5
+[2025-12-30 11:43:25] INFO : UI item found: HTC One M9
+[2025-12-30 11:43:25] INFO : Validation completed successfully
+[2025-12-30 11:43:26] INFO : BasePage Initialized
+[2025-12-30 11:43:26] INFO : BasePage Initialized
+[2025-12-30 11:43:26] INFO : BasePage Initialized
+[2025-12-30 11:43:26] INFO : BasePage Initialized
+[2025-12-30 11:43:26] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 11:43:27] INFO : SELECT : Phones 
+[2025-12-30 11:43:27] INFO : Selected Name: Phones
+[2025-12-30 11:43:27] INFO : Waiting for items to load after category selection
+[2025-12-30 11:43:28] INFO : Waiting for items to load after category selection
+[2025-12-30 11:43:28] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 11:43:29] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 11:43:31] INFO : BasePage Initialized
+[2025-12-30 11:43:31] INFO : BasePage Initialized
+[2025-12-30 11:43:31] INFO : BasePage Initialized
+[2025-12-30 11:43:31] INFO : BasePage Initialized
+[2025-12-30 11:43:31] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 11:43:32] INFO : Waiting for items to load after category selection
+[2025-12-30 11:43:33] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 11:43:33] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:19:55] INFO : BasePage Initialized
+[2025-12-30 15:19:55] INFO : BasePage Initialized
+[2025-12-30 15:19:55] INFO : BasePage Initialized
+[2025-12-30 15:19:55] INFO : BasePage Initialized
+[2025-12-30 15:19:55] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:19:56] INFO : SELECT : Phones 
+[2025-12-30 15:19:56] INFO : Selected Name: Phones
+[2025-12-30 15:19:56] INFO : Waiting for items to load after category selection
+[2025-12-30 15:19:57] INFO : Validation of displayed items
+[2025-12-30 15:19:57] INFO : Number of items displayed: 7
+[2025-12-30 15:19:57] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:19:57] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:19:57] INFO : UI item found: Nexus 6
+[2025-12-30 15:19:57] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:19:57] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:19:57] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:19:57] INFO : UI item found: HTC One M9
+[2025-12-30 15:19:57] INFO : Validation completed successfully
+[2025-12-30 15:19:58] INFO : BasePage Initialized
+[2025-12-30 15:19:58] INFO : BasePage Initialized
+[2025-12-30 15:19:58] INFO : BasePage Initialized
+[2025-12-30 15:19:58] INFO : BasePage Initialized
+[2025-12-30 15:19:58] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:19:59] INFO : Waiting for items to load after category selection
+[2025-12-30 15:20:00] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:20:01] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:28:05] INFO : BasePage Initialized
+[2025-12-30 15:28:05] INFO : BasePage Initialized
+[2025-12-30 15:28:05] INFO : BasePage Initialized
+[2025-12-30 15:28:05] INFO : BasePage Initialized
+[2025-12-30 15:28:05] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:28:07] INFO : BasePage Initialized
+[2025-12-30 15:28:07] INFO : BasePage Initialized
+[2025-12-30 15:28:07] INFO : BasePage Initialized
+[2025-12-30 15:28:07] INFO : BasePage Initialized
+[2025-12-30 15:28:07] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:28:08] INFO : SELECT : Phones 
+[2025-12-30 15:28:08] INFO : Selected Name: Phones
+[2025-12-30 15:28:08] INFO : Waiting for items to load after category selection
+[2025-12-30 15:28:09] INFO : Waiting for items to load after category selection
+[2025-12-30 15:28:09] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:28:09] INFO : Navigating to next page
+[2025-12-30 15:28:11] INFO : BasePage Initialized
+[2025-12-30 15:28:11] INFO : BasePage Initialized
+[2025-12-30 15:28:11] INFO : BasePage Initialized
+[2025-12-30 15:28:11] INFO : BasePage Initialized
+[2025-12-30 15:28:11] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:28:13] INFO : BasePage Initialized
+[2025-12-30 15:28:13] INFO : BasePage Initialized
+[2025-12-30 15:28:13] INFO : BasePage Initialized
+[2025-12-30 15:28:13] INFO : BasePage Initialized
+[2025-12-30 15:28:13] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:28:14] INFO : SELECT : Phones 
+[2025-12-30 15:28:14] INFO : Selected Name: Phones
+[2025-12-30 15:28:14] INFO : Waiting for items to load after category selection
+[2025-12-30 15:28:15] INFO : Waiting for items to load after category selection
+[2025-12-30 15:28:15] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:28:15] INFO : Navigating to next page
+[2025-12-30 15:28:17] INFO : BasePage Initialized
+[2025-12-30 15:28:17] INFO : BasePage Initialized
+[2025-12-30 15:28:17] INFO : BasePage Initialized
+[2025-12-30 15:28:17] INFO : BasePage Initialized
+[2025-12-30 15:28:17] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:28:18] INFO : Waiting for items to load after category selection
+[2025-12-30 15:28:19] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:28:20] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:31:30] INFO : BasePage Initialized
+[2025-12-30 15:31:30] INFO : BasePage Initialized
+[2025-12-30 15:31:30] INFO : BasePage Initialized
+[2025-12-30 15:31:30] INFO : BasePage Initialized
+[2025-12-30 15:31:30] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:31:31] INFO : SELECT : Phones 
+[2025-12-30 15:31:31] INFO : Selected Name: Phones
+[2025-12-30 15:31:31] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:32] INFO : Validation of displayed items
+[2025-12-30 15:31:32] INFO : Number of items displayed: 7
+[2025-12-30 15:31:32] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:31:32] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:31:32] INFO : UI item found: Nexus 6
+[2025-12-30 15:31:32] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:31:32] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:31:32] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:31:32] INFO : UI item found: HTC One M9
+[2025-12-30 15:31:32] INFO : Validation completed successfully
+[2025-12-30 15:31:33] INFO : BasePage Initialized
+[2025-12-30 15:31:33] INFO : BasePage Initialized
+[2025-12-30 15:31:33] INFO : BasePage Initialized
+[2025-12-30 15:31:33] INFO : BasePage Initialized
+[2025-12-30 15:31:33] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:31:34] INFO : SELECT : Phones 
+[2025-12-30 15:31:35] INFO : Selected Name: Phones
+[2025-12-30 15:31:35] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:36] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:36] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:31:36] INFO : Navigating to next page
+[2025-12-30 15:31:38] INFO : BasePage Initialized
+[2025-12-30 15:31:38] INFO : BasePage Initialized
+[2025-12-30 15:31:38] INFO : BasePage Initialized
+[2025-12-30 15:31:38] INFO : BasePage Initialized
+[2025-12-30 15:31:38] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:31:39] INFO : SELECT : Phones 
+[2025-12-30 15:31:39] INFO : Selected Name: Phones
+[2025-12-30 15:31:39] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:40] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:40] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:31:40] INFO : Navigating to next page
+[2025-12-30 15:31:42] INFO : BasePage Initialized
+[2025-12-30 15:31:42] INFO : BasePage Initialized
+[2025-12-30 15:31:42] INFO : BasePage Initialized
+[2025-12-30 15:31:42] INFO : BasePage Initialized
+[2025-12-30 15:31:42] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:31:43] INFO : SELECT : Phones 
+[2025-12-30 15:31:43] INFO : Selected Name: Phones
+[2025-12-30 15:31:43] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:44] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:44] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:31:44] INFO : Navigating to next page
+[2025-12-30 15:31:46] INFO : BasePage Initialized
+[2025-12-30 15:31:46] INFO : BasePage Initialized
+[2025-12-30 15:31:46] INFO : BasePage Initialized
+[2025-12-30 15:31:46] INFO : BasePage Initialized
+[2025-12-30 15:31:46] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:31:48] INFO : Waiting for items to load after category selection
+[2025-12-30 15:31:48] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:31:49] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:40:28] INFO : BasePage Initialized
+[2025-12-30 15:40:28] INFO : BasePage Initialized
+[2025-12-30 15:40:28] INFO : BasePage Initialized
+[2025-12-30 15:40:28] INFO : BasePage Initialized
+[2025-12-30 15:40:28] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:40:30] INFO : SELECT : Phones 
+[2025-12-30 15:40:30] INFO : Selected Name: Phones
+[2025-12-30 15:40:30] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:30] INFO : Validation of displayed items
+[2025-12-30 15:40:30] INFO : Number of items displayed: 9
+[2025-12-30 15:40:30] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:40:30] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:40:30] INFO : UI item found: Nexus 6
+[2025-12-30 15:40:30] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:40:30] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:40:30] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:40:30] INFO : UI item found: HTC One M9
+[2025-12-30 15:40:30] INFO : UI item found: Sony vaio i5
+[2025-12-30 15:40:30] INFO : UI item found: Sony vaio i7
+[2025-12-30 15:40:30] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2025-12-30 15:40:31] INFO : BasePage Initialized
+[2025-12-30 15:40:31] INFO : BasePage Initialized
+[2025-12-30 15:40:31] INFO : BasePage Initialized
+[2025-12-30 15:40:31] INFO : BasePage Initialized
+[2025-12-30 15:40:31] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:40:32] INFO : SELECT : Phones 
+[2025-12-30 15:40:32] INFO : Selected Name: Phones
+[2025-12-30 15:40:32] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:33] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:33] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:40:33] INFO : Navigating to next page
+[2025-12-30 15:40:35] INFO : BasePage Initialized
+[2025-12-30 15:40:35] INFO : BasePage Initialized
+[2025-12-30 15:40:35] INFO : BasePage Initialized
+[2025-12-30 15:40:35] INFO : BasePage Initialized
+[2025-12-30 15:40:35] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:40:36] INFO : SELECT : Phones 
+[2025-12-30 15:40:36] INFO : Selected Name: Phones
+[2025-12-30 15:40:36] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:37] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:37] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:40:37] INFO : Navigating to next page
+[2025-12-30 15:40:39] INFO : BasePage Initialized
+[2025-12-30 15:40:39] INFO : BasePage Initialized
+[2025-12-30 15:40:39] INFO : BasePage Initialized
+[2025-12-30 15:40:39] INFO : BasePage Initialized
+[2025-12-30 15:40:39] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:40:40] INFO : SELECT : Phones 
+[2025-12-30 15:40:40] INFO : Selected Name: Phones
+[2025-12-30 15:40:40] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:40] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:40] INFO : Searching for item across pages: <deviceName>
+[2025-12-30 15:40:40] INFO : Navigating to next page
+[2025-12-30 15:40:43] INFO : BasePage Initialized
+[2025-12-30 15:40:43] INFO : BasePage Initialized
+[2025-12-30 15:40:43] INFO : BasePage Initialized
+[2025-12-30 15:40:43] INFO : BasePage Initialized
+[2025-12-30 15:40:43] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:40:44] INFO : Waiting for items to load after category selection
+[2025-12-30 15:40:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:40:45] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:44:28] INFO : BasePage Initialized
+[2025-12-30 15:44:28] INFO : BasePage Initialized
+[2025-12-30 15:44:28] INFO : BasePage Initialized
+[2025-12-30 15:44:28] INFO : BasePage Initialized
+[2025-12-30 15:44:28] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:30] INFO : SELECT : Phones 
+[2025-12-30 15:44:30] INFO : Selected Name: Phones
+[2025-12-30 15:44:30] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:30] INFO : Validation of displayed items
+[2025-12-30 15:44:30] INFO : Number of items displayed: 9
+[2025-12-30 15:44:30] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:44:30] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:44:30] INFO : UI item found: Nexus 6
+[2025-12-30 15:44:30] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:44:30] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:44:30] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:44:30] INFO : UI item found: HTC One M9
+[2025-12-30 15:44:30] INFO : UI item found: Sony vaio i5
+[2025-12-30 15:44:30] INFO : UI item found: Sony vaio i7
+[2025-12-30 15:44:30] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2025-12-30 15:44:32] INFO : BasePage Initialized
+[2025-12-30 15:44:32] INFO : BasePage Initialized
+[2025-12-30 15:44:32] INFO : BasePage Initialized
+[2025-12-30 15:44:32] INFO : BasePage Initialized
+[2025-12-30 15:44:32] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:33] INFO : SELECT : Phones 
+[2025-12-30 15:44:33] INFO : Selected Name: Phones
+[2025-12-30 15:44:33] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:34] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:34] INFO : Searching for item across pages: Samsung galaxy s6
+[2025-12-30 15:44:34] INFO : Item clicked: Samsung galaxy s6
+[2025-12-30 15:44:37] INFO : BasePage Initialized
+[2025-12-30 15:44:37] INFO : BasePage Initialized
+[2025-12-30 15:44:37] INFO : BasePage Initialized
+[2025-12-30 15:44:37] INFO : BasePage Initialized
+[2025-12-30 15:44:37] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:38] INFO : SELECT : Phones 
+[2025-12-30 15:44:38] INFO : Selected Name: Phones
+[2025-12-30 15:44:38] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:38] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:38] INFO : Searching for item across pages: Nexus 6
+[2025-12-30 15:44:39] INFO : Item clicked: Nexus 6
+[2025-12-30 15:44:41] INFO : BasePage Initialized
+[2025-12-30 15:44:41] INFO : BasePage Initialized
+[2025-12-30 15:44:41] INFO : BasePage Initialized
+[2025-12-30 15:44:41] INFO : BasePage Initialized
+[2025-12-30 15:44:41] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:42] INFO : SELECT : Phones 
+[2025-12-30 15:44:42] INFO : Selected Name: Phones
+[2025-12-30 15:44:42] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:43] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:43] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:44:44] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:44:46] INFO : BasePage Initialized
+[2025-12-30 15:44:46] INFO : BasePage Initialized
+[2025-12-30 15:44:46] INFO : BasePage Initialized
+[2025-12-30 15:44:46] INFO : BasePage Initialized
+[2025-12-30 15:44:46] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:47] INFO : SELECT : Phones 
+[2025-12-30 15:44:47] INFO : Selected Name: Phones
+[2025-12-30 15:44:47] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:48] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:48] INFO : Searching for item across pages: Sony xperia z5
+[2025-12-30 15:44:49] INFO : Item clicked: Sony xperia z5
+[2025-12-30 15:44:52] INFO : BasePage Initialized
+[2025-12-30 15:44:52] INFO : BasePage Initialized
+[2025-12-30 15:44:52] INFO : BasePage Initialized
+[2025-12-30 15:44:52] INFO : BasePage Initialized
+[2025-12-30 15:44:52] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:44:53] INFO : Waiting for items to load after category selection
+[2025-12-30 15:44:54] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:44:54] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:51:25] INFO : BasePage Initialized
+[2025-12-30 15:51:25] INFO : BasePage Initialized
+[2025-12-30 15:51:25] INFO : BasePage Initialized
+[2025-12-30 15:51:25] INFO : BasePage Initialized
+[2025-12-30 15:51:25] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:51:26] INFO : SELECT : Phones 
+[2025-12-30 15:51:26] INFO : Selected Name: Phones
+[2025-12-30 15:51:26] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:27] INFO : Validation of displayed items
+[2025-12-30 15:51:27] INFO : Number of items displayed: 9
+[2025-12-30 15:51:27] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:51:27] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:51:27] INFO : UI item found: Nexus 6
+[2025-12-30 15:51:27] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:51:27] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:51:27] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:51:27] INFO : UI item found: HTC One M9
+[2025-12-30 15:51:27] INFO : UI item found: Sony vaio i5
+[2025-12-30 15:51:27] INFO : UI item found: Sony vaio i7
+[2025-12-30 15:51:27] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2025-12-30 15:51:28] INFO : BasePage Initialized
+[2025-12-30 15:51:28] INFO : BasePage Initialized
+[2025-12-30 15:51:28] INFO : BasePage Initialized
+[2025-12-30 15:51:28] INFO : BasePage Initialized
+[2025-12-30 15:51:28] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:51:29] INFO : SELECT : Phones 
+[2025-12-30 15:51:29] INFO : Selected Name: Phones
+[2025-12-30 15:51:29] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:30] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:30] INFO : Searching for item across pages: Samsung galaxy s6
+[2025-12-30 15:51:31] INFO : Item clicked: Samsung galaxy s6
+[2025-12-30 15:51:33] INFO : BasePage Initialized
+[2025-12-30 15:51:33] INFO : BasePage Initialized
+[2025-12-30 15:51:33] INFO : BasePage Initialized
+[2025-12-30 15:51:33] INFO : BasePage Initialized
+[2025-12-30 15:51:33] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:51:34] INFO : SELECT : Phones 
+[2025-12-30 15:51:34] INFO : Selected Name: Phones
+[2025-12-30 15:51:34] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:35] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:35] INFO : Searching for item across pages: Nexus 6
+[2025-12-30 15:51:35] INFO : Item clicked: Nexus 6
+[2025-12-30 15:51:38] INFO : BasePage Initialized
+[2025-12-30 15:51:38] INFO : BasePage Initialized
+[2025-12-30 15:51:39] INFO : BasePage Initialized
+[2025-12-30 15:51:39] INFO : BasePage Initialized
+[2025-12-30 15:51:39] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:51:40] INFO : SELECT : Phones 
+[2025-12-30 15:51:40] INFO : Selected Name: Phones
+[2025-12-30 15:51:40] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:41] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:41] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:51:41] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:51:43] INFO : BasePage Initialized
+[2025-12-30 15:51:43] INFO : BasePage Initialized
+[2025-12-30 15:51:43] INFO : BasePage Initialized
+[2025-12-30 15:51:43] INFO : BasePage Initialized
+[2025-12-30 15:51:43] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:51:44] INFO : SELECT : Phones 
+[2025-12-30 15:51:45] INFO : Selected Name: Phones
+[2025-12-30 15:51:45] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:45] INFO : Waiting for items to load after category selection
+[2025-12-30 15:51:46] INFO : Searching for item across pages: Sony xperia z5
+[2025-12-30 15:51:46] INFO : Item clicked: Sony xperia z5
+[2025-12-30 15:51:48] INFO : BasePage Initialized
+[2025-12-30 15:51:48] INFO : BasePage Initialized
+[2025-12-30 15:51:48] INFO : BasePage Initialized
+[2025-12-30 15:51:48] INFO : BasePage Initialized
+[2025-12-30 15:51:48] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:31] INFO : BasePage Initialized
+[2025-12-30 15:57:31] INFO : BasePage Initialized
+[2025-12-30 15:57:31] INFO : BasePage Initialized
+[2025-12-30 15:57:31] INFO : BasePage Initialized
+[2025-12-30 15:57:31] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:32] INFO : SELECT : Phones 
+[2025-12-30 15:57:33] INFO : Selected Name: Phones
+[2025-12-30 15:57:33] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:33] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:33] INFO : Validation of displayed items
+[2025-12-30 15:57:33] INFO : Number of items displayed: 9
+[2025-12-30 15:57:33] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 15:57:33] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 15:57:33] INFO : UI item found: Nexus 6
+[2025-12-30 15:57:33] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 15:57:33] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 15:57:33] INFO : UI item found: Sony xperia z5
+[2025-12-30 15:57:33] INFO : UI item found: HTC One M9
+[2025-12-30 15:57:33] INFO : UI item found: Sony vaio i5
+[2025-12-30 15:57:33] INFO : UI item found: Sony vaio i7
+[2025-12-30 15:57:33] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2025-12-30 15:57:34] INFO : BasePage Initialized
+[2025-12-30 15:57:34] INFO : BasePage Initialized
+[2025-12-30 15:57:34] INFO : BasePage Initialized
+[2025-12-30 15:57:34] INFO : BasePage Initialized
+[2025-12-30 15:57:34] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:36] INFO : SELECT : Phones 
+[2025-12-30 15:57:36] INFO : Selected Name: Phones
+[2025-12-30 15:57:36] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:36] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:36] INFO : Searching for item across pages: Samsung galaxy s6
+[2025-12-30 15:57:36] INFO : Item clicked: Samsung galaxy s6
+[2025-12-30 15:57:39] INFO : BasePage Initialized
+[2025-12-30 15:57:39] INFO : BasePage Initialized
+[2025-12-30 15:57:39] INFO : BasePage Initialized
+[2025-12-30 15:57:39] INFO : BasePage Initialized
+[2025-12-30 15:57:39] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:40] INFO : SELECT : Phones 
+[2025-12-30 15:57:40] INFO : Selected Name: Phones
+[2025-12-30 15:57:40] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:41] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:41] INFO : Searching for item across pages: Nexus 6
+[2025-12-30 15:57:41] INFO : Item clicked: Nexus 6
+[2025-12-30 15:57:44] INFO : BasePage Initialized
+[2025-12-30 15:57:44] INFO : BasePage Initialized
+[2025-12-30 15:57:44] INFO : BasePage Initialized
+[2025-12-30 15:57:44] INFO : BasePage Initialized
+[2025-12-30 15:57:44] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:45] INFO : SELECT : Phones 
+[2025-12-30 15:57:46] INFO : Selected Name: Phones
+[2025-12-30 15:57:46] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:46] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:46] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:57:46] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 15:57:48] INFO : BasePage Initialized
+[2025-12-30 15:57:48] INFO : BasePage Initialized
+[2025-12-30 15:57:48] INFO : BasePage Initialized
+[2025-12-30 15:57:48] INFO : BasePage Initialized
+[2025-12-30 15:57:48] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:50] INFO : BasePage Initialized
+[2025-12-30 15:57:50] INFO : BasePage Initialized
+[2025-12-30 15:57:50] INFO : BasePage Initialized
+[2025-12-30 15:57:50] INFO : BasePage Initialized
+[2025-12-30 15:57:50] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 15:57:51] INFO : Waiting for items to load after category selection
+[2025-12-30 15:57:52] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 15:57:52] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 16:00:30] INFO : BasePage Initialized
+[2025-12-30 16:00:30] INFO : BasePage Initialized
+[2025-12-30 16:00:30] INFO : BasePage Initialized
+[2025-12-30 16:00:30] INFO : BasePage Initialized
+[2025-12-30 16:00:30] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:31] INFO : SELECT : Phones 
+[2025-12-30 16:00:32] INFO : Selected Name: Phones
+[2025-12-30 16:00:32] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:32] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:32] INFO : Validation of displayed items
+[2025-12-30 16:00:32] INFO : Number of items displayed: 7
+[2025-12-30 16:00:32] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 16:00:32] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 16:00:32] INFO : UI item found: Nexus 6
+[2025-12-30 16:00:32] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 16:00:32] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 16:00:33] INFO : UI item found: Sony xperia z5
+[2025-12-30 16:00:33] INFO : UI item found: HTC One M9
+[2025-12-30 16:00:33] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+Expected value: [32m["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6", "Samsung galaxy s7", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9"][39m
+Received array: [31m["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6", "Samsung galaxy s7", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9"][39m
+[2025-12-30 16:00:34] INFO : BasePage Initialized
+[2025-12-30 16:00:34] INFO : BasePage Initialized
+[2025-12-30 16:00:34] INFO : BasePage Initialized
+[2025-12-30 16:00:34] INFO : BasePage Initialized
+[2025-12-30 16:00:34] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:35] INFO : BasePage Initialized
+[2025-12-30 16:00:35] INFO : BasePage Initialized
+[2025-12-30 16:00:35] INFO : BasePage Initialized
+[2025-12-30 16:00:35] INFO : BasePage Initialized
+[2025-12-30 16:00:35] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:37] INFO : BasePage Initialized
+[2025-12-30 16:00:37] INFO : BasePage Initialized
+[2025-12-30 16:00:37] INFO : BasePage Initialized
+[2025-12-30 16:00:37] INFO : BasePage Initialized
+[2025-12-30 16:00:37] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:37] INFO : SELECT : Phones 
+[2025-12-30 16:00:38] INFO : Selected Name: Phones
+[2025-12-30 16:00:38] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:39] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:39] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 16:00:39] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 16:00:42] INFO : BasePage Initialized
+[2025-12-30 16:00:42] INFO : BasePage Initialized
+[2025-12-30 16:00:42] INFO : BasePage Initialized
+[2025-12-30 16:00:42] INFO : BasePage Initialized
+[2025-12-30 16:00:42] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:43] INFO : SELECT : Phones 
+[2025-12-30 16:00:43] INFO : Selected Name: Phones
+[2025-12-30 16:00:43] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:44] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:44] INFO : Searching for item across pages: Sony xperia z5
+[2025-12-30 16:00:45] INFO : Item clicked: Sony xperia z5
+[2025-12-30 16:00:47] INFO : BasePage Initialized
+[2025-12-30 16:00:47] INFO : BasePage Initialized
+[2025-12-30 16:00:47] INFO : BasePage Initialized
+[2025-12-30 16:00:47] INFO : BasePage Initialized
+[2025-12-30 16:00:47] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:00:48] INFO : Waiting for items to load after category selection
+[2025-12-30 16:00:49] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 16:00:49] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 16:04:11] INFO : BasePage Initialized
+[2025-12-30 16:04:11] INFO : BasePage Initialized
+[2025-12-30 16:04:11] INFO : BasePage Initialized
+[2025-12-30 16:04:11] INFO : BasePage Initialized
+[2025-12-30 16:04:11] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:12] INFO : SELECT : Phones 
+[2025-12-30 16:04:13] INFO : Selected Name: Phones
+[2025-12-30 16:04:13] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:13] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:13] INFO : Validation of displayed items
+[2025-12-30 16:04:13] INFO : Number of items displayed: 9
+[2025-12-30 16:04:13] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 16:04:13] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 16:04:13] INFO : UI item found: Nexus 6
+[2025-12-30 16:04:13] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 16:04:13] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 16:04:13] INFO : UI item found: Sony xperia z5
+[2025-12-30 16:04:13] INFO : UI item found: HTC One M9
+[2025-12-30 16:04:13] INFO : UI item found: Sony vaio i5
+[2025-12-30 16:04:13] INFO : UI item found: Sony vaio i7
+[2025-12-30 16:04:13] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+Expected value: [32m"Sony vaio i5"[39m
+Received array: [31m["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6", "Samsung galaxy s7", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9"][39m
+[2025-12-30 16:04:14] INFO : BasePage Initialized
+[2025-12-30 16:04:14] INFO : BasePage Initialized
+[2025-12-30 16:04:14] INFO : BasePage Initialized
+[2025-12-30 16:04:14] INFO : BasePage Initialized
+[2025-12-30 16:04:14] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:16] INFO : SELECT : Phones 
+[2025-12-30 16:04:16] INFO : Selected Name: Phones
+[2025-12-30 16:04:16] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:17] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:17] INFO : Searching for item across pages: Samsung galaxy s6
+[2025-12-30 16:04:17] INFO : Item clicked: Samsung galaxy s6
+[2025-12-30 16:04:20] INFO : BasePage Initialized
+[2025-12-30 16:04:20] INFO : BasePage Initialized
+[2025-12-30 16:04:20] INFO : BasePage Initialized
+[2025-12-30 16:04:20] INFO : BasePage Initialized
+[2025-12-30 16:04:20] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:21] INFO : SELECT : Phones 
+[2025-12-30 16:04:21] INFO : Selected Name: Phones
+[2025-12-30 16:04:21] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:22] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:22] INFO : Searching for item across pages: Nexus 6
+[2025-12-30 16:04:22] INFO : Item clicked: Nexus 6
+[2025-12-30 16:04:25] INFO : BasePage Initialized
+[2025-12-30 16:04:25] INFO : BasePage Initialized
+[2025-12-30 16:04:25] INFO : BasePage Initialized
+[2025-12-30 16:04:25] INFO : BasePage Initialized
+[2025-12-30 16:04:25] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:27] INFO : BasePage Initialized
+[2025-12-30 16:04:27] INFO : BasePage Initialized
+[2025-12-30 16:04:27] INFO : BasePage Initialized
+[2025-12-30 16:04:27] INFO : BasePage Initialized
+[2025-12-30 16:04:27] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:28] INFO : BasePage Initialized
+[2025-12-30 16:04:28] INFO : BasePage Initialized
+[2025-12-30 16:04:28] INFO : BasePage Initialized
+[2025-12-30 16:04:28] INFO : BasePage Initialized
+[2025-12-30 16:04:28] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:29] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:30] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 16:04:30] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 16:04:39] INFO : BasePage Initialized
+[2025-12-30 16:04:39] INFO : BasePage Initialized
+[2025-12-30 16:04:39] INFO : BasePage Initialized
+[2025-12-30 16:04:39] INFO : BasePage Initialized
+[2025-12-30 16:04:39] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:41] INFO : SELECT : Phones 
+[2025-12-30 16:04:41] INFO : Selected Name: Phones
+[2025-12-30 16:04:41] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:41] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:41] INFO : Validation of displayed items
+[2025-12-30 16:04:41] INFO : Number of items displayed: 9
+[2025-12-30 16:04:41] INFO : UI item found: Samsung galaxy s6
+[2025-12-30 16:04:41] INFO : UI item found: Nokia lumia 1520
+[2025-12-30 16:04:41] INFO : UI item found: Nexus 6
+[2025-12-30 16:04:41] INFO : UI item found: Samsung galaxy s7
+[2025-12-30 16:04:41] INFO : UI item found: Iphone 6 32gb
+[2025-12-30 16:04:41] INFO : UI item found: Sony xperia z5
+[2025-12-30 16:04:41] INFO : UI item found: HTC One M9
+[2025-12-30 16:04:41] INFO : UI item found: Sony vaio i5
+[2025-12-30 16:04:41] INFO : UI item found: Sony vaio i7
+[2025-12-30 16:04:41] ERROR : Validation failed: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+Expected value: [32m"Sony vaio i5"[39m
+Received array: [31m["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6", "Samsung galaxy s7", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9"][39m
+[2025-12-30 16:04:42] INFO : BasePage Initialized
+[2025-12-30 16:04:42] INFO : BasePage Initialized
+[2025-12-30 16:04:42] INFO : BasePage Initialized
+[2025-12-30 16:04:43] INFO : BasePage Initialized
+[2025-12-30 16:04:43] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:44] INFO : SELECT : Phones 
+[2025-12-30 16:04:44] INFO : Selected Name: Phones
+[2025-12-30 16:04:44] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:45] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:45] INFO : Searching for item across pages: Samsung galaxy s6
+[2025-12-30 16:04:45] INFO : Item clicked: Samsung galaxy s6
+[2025-12-30 16:04:47] INFO : BasePage Initialized
+[2025-12-30 16:04:47] INFO : BasePage Initialized
+[2025-12-30 16:04:47] INFO : BasePage Initialized
+[2025-12-30 16:04:47] INFO : BasePage Initialized
+[2025-12-30 16:04:47] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:48] INFO : SELECT : Phones 
+[2025-12-30 16:04:49] INFO : Selected Name: Phones
+[2025-12-30 16:04:49] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:50] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:50] INFO : Searching for item across pages: Nexus 6
+[2025-12-30 16:04:50] INFO : Item clicked: Nexus 6
+[2025-12-30 16:04:52] INFO : BasePage Initialized
+[2025-12-30 16:04:52] INFO : BasePage Initialized
+[2025-12-30 16:04:52] INFO : BasePage Initialized
+[2025-12-30 16:04:52] INFO : BasePage Initialized
+[2025-12-30 16:04:52] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:53] INFO : SELECT : Phones 
+[2025-12-30 16:04:53] INFO : Selected Name: Phones
+[2025-12-30 16:04:53] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:54] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:54] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 16:04:55] INFO : Item clicked: Iphone 6 32gb
+[2025-12-30 16:04:57] INFO : BasePage Initialized
+[2025-12-30 16:04:57] INFO : BasePage Initialized
+[2025-12-30 16:04:57] INFO : BasePage Initialized
+[2025-12-30 16:04:57] INFO : BasePage Initialized
+[2025-12-30 16:04:57] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:04:58] INFO : SELECT : Phones 
+[2025-12-30 16:04:58] INFO : Selected Name: Phones
+[2025-12-30 16:04:58] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:59] INFO : Waiting for items to load after category selection
+[2025-12-30 16:04:59] INFO : Searching for item across pages: Sony xperia z5
+[2025-12-30 16:04:59] INFO : Item clicked: Sony xperia z5
+[2025-12-30 16:05:02] INFO : BasePage Initialized
+[2025-12-30 16:05:02] INFO : BasePage Initialized
+[2025-12-30 16:05:02] INFO : BasePage Initialized
+[2025-12-30 16:05:02] INFO : BasePage Initialized
+[2025-12-30 16:05:02] INFO : Navigate to URL: https://demoblaze.com
+[2025-12-30 16:05:03] INFO : Waiting for items to load after category selection
+[2025-12-30 16:05:04] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-30 16:05:05] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 14:46:31] INFO : BasePage Initialized
+[2026-01-02 14:46:31] INFO : BasePage Initialized
+[2026-01-02 14:46:31] INFO : BasePage Initialized
+[2026-01-02 14:46:31] INFO : BasePage Initialized
+[2026-01-02 14:46:31] INFO : BasePage Initialized
+[2026-01-02 14:46:31] INFO : Waiting for items to load after category selection
+[2026-01-02 14:46:37] INFO : BasePage Initialized
+[2026-01-02 14:46:37] INFO : BasePage Initialized
+[2026-01-02 14:46:37] INFO : BasePage Initialized
+[2026-01-02 14:46:37] INFO : BasePage Initialized
+[2026-01-02 14:46:37] INFO : BasePage Initialized
+[2026-01-02 14:46:37] INFO : Waiting for items to load after category selection
+[2026-01-02 14:48:51] INFO : BasePage Initialized
+[2026-01-02 14:48:51] INFO : BasePage Initialized
+[2026-01-02 14:48:51] INFO : BasePage Initialized
+[2026-01-02 14:48:51] INFO : BasePage Initialized
+[2026-01-02 14:48:51] INFO : BasePage Initialized
+[2026-01-02 14:48:51] INFO : Waiting for items to load after category selection
+[2026-01-02 14:48:57] INFO : BasePage Initialized
+[2026-01-02 14:48:57] INFO : BasePage Initialized
+[2026-01-02 14:48:57] INFO : BasePage Initialized
+[2026-01-02 14:48:57] INFO : BasePage Initialized
+[2026-01-02 14:48:57] INFO : BasePage Initialized
+[2026-01-02 14:48:57] INFO : Waiting for items to load after category selection
+[2026-01-02 15:02:12] INFO : BasePage Initialized
+[2026-01-02 15:02:12] INFO : BasePage Initialized
+[2026-01-02 15:02:12] INFO : BasePage Initialized
+[2026-01-02 15:02:12] INFO : BasePage Initialized
+[2026-01-02 15:02:12] INFO : BasePage Initialized
+[2026-01-02 15:02:12] INFO : Waiting for items to load after category selection
+[2026-01-02 15:02:18] INFO : BasePage Initialized
+[2026-01-02 15:02:18] INFO : BasePage Initialized
+[2026-01-02 15:02:18] INFO : BasePage Initialized
+[2026-01-02 15:02:18] INFO : BasePage Initialized
+[2026-01-02 15:02:18] INFO : BasePage Initialized
+[2026-01-02 15:02:18] INFO : Waiting for items to load after category selection
+[2026-01-02 15:03:18] INFO : BasePage Initialized
+[2026-01-02 15:03:18] INFO : BasePage Initialized
+[2026-01-02 15:03:18] INFO : BasePage Initialized
+[2026-01-02 15:03:18] INFO : BasePage Initialized
+[2026-01-02 15:03:18] INFO : BasePage Initialized
+[2026-01-02 15:03:18] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:03:19] INFO : Waiting for items to load after category selection
+[2026-01-02 15:03:20] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:03:20] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:03:22] INFO : BasePage Initialized
+[2026-01-02 15:03:22] INFO : BasePage Initialized
+[2026-01-02 15:03:22] INFO : BasePage Initialized
+[2026-01-02 15:03:22] INFO : BasePage Initialized
+[2026-01-02 15:03:22] INFO : BasePage Initialized
+[2026-01-02 15:03:22] INFO : Waiting for items to load after category selection
+[2026-01-02 15:05:22] INFO : BasePage Initialized
+[2026-01-02 15:05:22] INFO : BasePage Initialized
+[2026-01-02 15:05:22] INFO : BasePage Initialized
+[2026-01-02 15:05:22] INFO : BasePage Initialized
+[2026-01-02 15:05:22] INFO : BasePage Initialized
+[2026-01-02 15:05:22] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:05:24] INFO : Waiting for items to load after category selection
+[2026-01-02 15:05:25] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:05:25] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:05:26] INFO : BasePage Initialized
+[2026-01-02 15:05:26] INFO : BasePage Initialized
+[2026-01-02 15:05:26] INFO : BasePage Initialized
+[2026-01-02 15:05:26] INFO : BasePage Initialized
+[2026-01-02 15:05:26] INFO : BasePage Initialized
+[2026-01-02 15:05:26] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:05:28] INFO : Waiting for items to load after category selection
+[2026-01-02 15:05:28] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:05:29] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:09:01] INFO : BasePage Initialized
+[2026-01-02 15:09:01] INFO : BasePage Initialized
+[2026-01-02 15:09:01] INFO : BasePage Initialized
+[2026-01-02 15:09:01] INFO : BasePage Initialized
+[2026-01-02 15:09:01] INFO : BasePage Initialized
+[2026-01-02 15:09:01] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:09:03] INFO : Waiting for items to load after category selection
+[2026-01-02 15:09:03] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:09:04] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:09:05] INFO : BasePage Initialized
+[2026-01-02 15:09:05] INFO : BasePage Initialized
+[2026-01-02 15:09:05] INFO : BasePage Initialized
+[2026-01-02 15:09:05] INFO : BasePage Initialized
+[2026-01-02 15:09:05] INFO : BasePage Initialized
+[2026-01-02 15:09:05] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:09:06] INFO : Waiting for items to load after category selection
+[2026-01-02 15:09:07] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:09:08] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:31:31] INFO : BasePage Initialized
+[2026-01-02 15:31:31] INFO : BasePage Initialized
+[2026-01-02 15:31:31] INFO : BasePage Initialized
+[2026-01-02 15:31:31] INFO : BasePage Initialized
+[2026-01-02 15:31:31] INFO : BasePage Initialized
+[2026-01-02 15:31:31] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:31:32] INFO : Waiting for items to load after category selection
+[2026-01-02 15:31:33] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:31:34] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:31:36] INFO : BasePage Initialized
+[2026-01-02 15:31:36] INFO : BasePage Initialized
+[2026-01-02 15:31:36] INFO : BasePage Initialized
+[2026-01-02 15:31:36] INFO : BasePage Initialized
+[2026-01-02 15:31:36] INFO : BasePage Initialized
+[2026-01-02 15:31:36] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:31:37] INFO : Waiting for items to load after category selection
+[2026-01-02 15:31:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:31:39] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:31:39] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 15:49:38] INFO : BasePage Initialized
+[2026-01-02 15:49:38] INFO : BasePage Initialized
+[2026-01-02 15:49:38] INFO : BasePage Initialized
+[2026-01-02 15:49:38] INFO : BasePage Initialized
+[2026-01-02 15:49:38] INFO : BasePage Initialized
+[2026-01-02 15:49:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:49:39] INFO : Waiting for items to load after category selection
+[2026-01-02 15:49:40] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:49:40] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:49:42] INFO : BasePage Initialized
+[2026-01-02 15:49:42] INFO : BasePage Initialized
+[2026-01-02 15:49:42] INFO : BasePage Initialized
+[2026-01-02 15:49:42] INFO : BasePage Initialized
+[2026-01-02 15:49:42] INFO : BasePage Initialized
+[2026-01-02 15:49:42] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:49:44] INFO : Waiting for items to load after category selection
+[2026-01-02 15:49:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:49:45] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:49:45] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 15:54:32] INFO : BasePage Initialized
+[2026-01-02 15:54:32] INFO : BasePage Initialized
+[2026-01-02 15:54:32] INFO : BasePage Initialized
+[2026-01-02 15:54:32] INFO : BasePage Initialized
+[2026-01-02 15:54:32] INFO : BasePage Initialized
+[2026-01-02 15:54:32] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:54:33] INFO : Waiting for items to load after category selection
+[2026-01-02 15:54:34] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:54:35] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:54:37] INFO : BasePage Initialized
+[2026-01-02 15:54:37] INFO : BasePage Initialized
+[2026-01-02 15:54:37] INFO : BasePage Initialized
+[2026-01-02 15:54:37] INFO : BasePage Initialized
+[2026-01-02 15:54:37] INFO : BasePage Initialized
+[2026-01-02 15:54:37] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:54:38] INFO : Waiting for items to load after category selection
+[2026-01-02 15:54:39] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:54:39] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:54:39] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 15:56:04] INFO : BasePage Initialized
+[2026-01-02 15:56:04] INFO : BasePage Initialized
+[2026-01-02 15:56:04] INFO : BasePage Initialized
+[2026-01-02 15:56:04] INFO : BasePage Initialized
+[2026-01-02 15:56:04] INFO : BasePage Initialized
+[2026-01-02 15:56:04] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:06] INFO : BasePage Initialized
+[2026-01-02 15:56:06] INFO : BasePage Initialized
+[2026-01-02 15:56:06] INFO : BasePage Initialized
+[2026-01-02 15:56:06] INFO : BasePage Initialized
+[2026-01-02 15:56:06] INFO : BasePage Initialized
+[2026-01-02 15:56:06] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:07] INFO : SELECT : Phones 
+[2026-01-02 15:56:07] INFO : Selected Name: Phones
+[2026-01-02 15:56:07] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:08] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:08] INFO : Validation of displayed items
+[2026-01-02 15:56:08] INFO : Number of items displayed: 9
+[2026-01-02 15:56:08] INFO : UI item found: Samsung galaxy s6
+[2026-01-02 15:56:08] INFO : UI item found: Nokia lumia 1520
+[2026-01-02 15:56:08] INFO : UI item found: Nexus 6
+[2026-01-02 15:56:08] INFO : UI item found: Samsung galaxy s7
+[2026-01-02 15:56:08] INFO : UI item found: Iphone 6 32gb
+[2026-01-02 15:56:08] INFO : UI item found: Sony xperia z5
+[2026-01-02 15:56:08] INFO : UI item found: HTC One M9
+[2026-01-02 15:56:13] ERROR : Validation failed: locator.innerText: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('//div[@id=\'tbodyid\']/div/div/div/h4/a').nth(7)[22m
+
+[2026-01-02 15:56:14] INFO : BasePage Initialized
+[2026-01-02 15:56:14] INFO : BasePage Initialized
+[2026-01-02 15:56:14] INFO : BasePage Initialized
+[2026-01-02 15:56:14] INFO : BasePage Initialized
+[2026-01-02 15:56:14] INFO : BasePage Initialized
+[2026-01-02 15:56:14] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:15] INFO : SELECT : Phones 
+[2026-01-02 15:56:15] INFO : Selected Name: Phones
+[2026-01-02 15:56:15] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:16] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:16] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-02 15:56:17] INFO : Item clicked: Samsung galaxy s6
+[2026-01-02 15:56:19] INFO : BasePage Initialized
+[2026-01-02 15:56:19] INFO : BasePage Initialized
+[2026-01-02 15:56:19] INFO : BasePage Initialized
+[2026-01-02 15:56:19] INFO : BasePage Initialized
+[2026-01-02 15:56:19] INFO : BasePage Initialized
+[2026-01-02 15:56:19] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:20] INFO : SELECT : Phones 
+[2026-01-02 15:56:20] INFO : Selected Name: Phones
+[2026-01-02 15:56:20] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:21] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:21] INFO : Searching for item across pages: Nexus 6
+[2026-01-02 15:56:22] INFO : Item clicked: Nexus 6
+[2026-01-02 15:56:24] INFO : BasePage Initialized
+[2026-01-02 15:56:24] INFO : BasePage Initialized
+[2026-01-02 15:56:24] INFO : BasePage Initialized
+[2026-01-02 15:56:24] INFO : BasePage Initialized
+[2026-01-02 15:56:24] INFO : BasePage Initialized
+[2026-01-02 15:56:24] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:25] INFO : SELECT : Phones 
+[2026-01-02 15:56:25] INFO : Selected Name: Phones
+[2026-01-02 15:56:25] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:26] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:26] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:56:26] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:56:29] INFO : BasePage Initialized
+[2026-01-02 15:56:29] INFO : BasePage Initialized
+[2026-01-02 15:56:29] INFO : BasePage Initialized
+[2026-01-02 15:56:29] INFO : BasePage Initialized
+[2026-01-02 15:56:29] INFO : BasePage Initialized
+[2026-01-02 15:56:29] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:30] INFO : SELECT : Phones 
+[2026-01-02 15:56:30] INFO : Selected Name: Phones
+[2026-01-02 15:56:30] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:30] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:30] INFO : Searching for item across pages: Sony xperia z5
+[2026-01-02 15:56:31] INFO : Item clicked: Sony xperia z5
+[2026-01-02 15:56:33] INFO : BasePage Initialized
+[2026-01-02 15:56:33] INFO : BasePage Initialized
+[2026-01-02 15:56:33] INFO : BasePage Initialized
+[2026-01-02 15:56:33] INFO : BasePage Initialized
+[2026-01-02 15:56:33] INFO : BasePage Initialized
+[2026-01-02 15:56:33] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:34] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:35] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:56:35] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:56:38] INFO : BasePage Initialized
+[2026-01-02 15:56:38] INFO : BasePage Initialized
+[2026-01-02 15:56:38] INFO : BasePage Initialized
+[2026-01-02 15:56:38] INFO : BasePage Initialized
+[2026-01-02 15:56:38] INFO : BasePage Initialized
+[2026-01-02 15:56:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 15:56:39] INFO : Waiting for items to load after category selection
+[2026-01-02 15:56:40] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 15:56:41] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 15:56:41] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:00:06] INFO : BasePage Initialized
+[2026-01-02 16:00:06] INFO : BasePage Initialized
+[2026-01-02 16:00:06] INFO : BasePage Initialized
+[2026-01-02 16:00:06] INFO : BasePage Initialized
+[2026-01-02 16:00:06] INFO : BasePage Initialized
+[2026-01-02 16:00:06] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:08] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:09] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:00:09] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:00:10] INFO : BasePage Initialized
+[2026-01-02 16:00:10] INFO : BasePage Initialized
+[2026-01-02 16:00:10] INFO : BasePage Initialized
+[2026-01-02 16:00:10] INFO : BasePage Initialized
+[2026-01-02 16:00:10] INFO : BasePage Initialized
+[2026-01-02 16:00:10] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:11] INFO : SELECT : Phones 
+[2026-01-02 16:00:11] INFO : Selected Name: Phones
+[2026-01-02 16:00:11] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:12] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:12] INFO : Validation of displayed items
+[2026-01-02 16:00:12] INFO : Number of items displayed: 7
+[2026-01-02 16:00:12] INFO : UI item found: Samsung galaxy s6
+[2026-01-02 16:00:12] INFO : UI item found: Nokia lumia 1520
+[2026-01-02 16:00:12] INFO : UI item found: Nexus 6
+[2026-01-02 16:00:12] INFO : UI item found: Samsung galaxy s7
+[2026-01-02 16:00:12] INFO : UI item found: Iphone 6 32gb
+[2026-01-02 16:00:12] INFO : UI item found: Sony xperia z5
+[2026-01-02 16:00:12] INFO : UI item found: HTC One M9
+[2026-01-02 16:00:12] INFO : Validation completed successfully
+[2026-01-02 16:00:14] INFO : BasePage Initialized
+[2026-01-02 16:00:14] INFO : BasePage Initialized
+[2026-01-02 16:00:14] INFO : BasePage Initialized
+[2026-01-02 16:00:14] INFO : BasePage Initialized
+[2026-01-02 16:00:14] INFO : BasePage Initialized
+[2026-01-02 16:00:14] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:14] INFO : SELECT : Phones 
+[2026-01-02 16:00:15] INFO : Selected Name: Phones
+[2026-01-02 16:00:15] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:16] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:16] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-02 16:00:16] INFO : Item clicked: Samsung galaxy s6
+[2026-01-02 16:00:18] INFO : BasePage Initialized
+[2026-01-02 16:00:18] INFO : BasePage Initialized
+[2026-01-02 16:00:18] INFO : BasePage Initialized
+[2026-01-02 16:00:18] INFO : BasePage Initialized
+[2026-01-02 16:00:18] INFO : BasePage Initialized
+[2026-01-02 16:00:18] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:19] INFO : SELECT : Phones 
+[2026-01-02 16:00:19] INFO : Selected Name: Phones
+[2026-01-02 16:00:19] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:20] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:20] INFO : Searching for item across pages: Nexus 6
+[2026-01-02 16:00:21] INFO : Item clicked: Nexus 6
+[2026-01-02 16:00:23] INFO : BasePage Initialized
+[2026-01-02 16:00:23] INFO : BasePage Initialized
+[2026-01-02 16:00:23] INFO : BasePage Initialized
+[2026-01-02 16:00:23] INFO : BasePage Initialized
+[2026-01-02 16:00:23] INFO : BasePage Initialized
+[2026-01-02 16:00:23] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:24] INFO : SELECT : Phones 
+[2026-01-02 16:00:24] INFO : Selected Name: Phones
+[2026-01-02 16:00:24] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:25] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:25] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:00:25] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:00:29] INFO : BasePage Initialized
+[2026-01-02 16:00:29] INFO : BasePage Initialized
+[2026-01-02 16:00:29] INFO : BasePage Initialized
+[2026-01-02 16:00:29] INFO : BasePage Initialized
+[2026-01-02 16:00:29] INFO : BasePage Initialized
+[2026-01-02 16:00:29] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:30] INFO : SELECT : Phones 
+[2026-01-02 16:00:30] INFO : Selected Name: Phones
+[2026-01-02 16:00:30] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:31] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:31] INFO : Searching for item across pages: Sony xperia z5
+[2026-01-02 16:00:31] INFO : Item clicked: Sony xperia z5
+[2026-01-02 16:00:33] INFO : BasePage Initialized
+[2026-01-02 16:00:33] INFO : BasePage Initialized
+[2026-01-02 16:00:33] INFO : BasePage Initialized
+[2026-01-02 16:00:33] INFO : BasePage Initialized
+[2026-01-02 16:00:33] INFO : BasePage Initialized
+[2026-01-02 16:00:33] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:34] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:35] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:00:35] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:00:38] INFO : BasePage Initialized
+[2026-01-02 16:00:38] INFO : BasePage Initialized
+[2026-01-02 16:00:38] INFO : BasePage Initialized
+[2026-01-02 16:00:38] INFO : BasePage Initialized
+[2026-01-02 16:00:38] INFO : BasePage Initialized
+[2026-01-02 16:00:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:00:39] INFO : Waiting for items to load after category selection
+[2026-01-02 16:00:40] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:00:40] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:00:40] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:21:45] INFO : BasePage Initialized
+[2026-01-02 16:21:45] INFO : BasePage Initialized
+[2026-01-02 16:21:45] INFO : BasePage Initialized
+[2026-01-02 16:21:45] INFO : BasePage Initialized
+[2026-01-02 16:21:45] INFO : BasePage Initialized
+[2026-01-02 16:21:45] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:21:46] INFO : Waiting for items to load after category selection
+[2026-01-02 16:21:47] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:21:47] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:21:48] INFO : BasePage Initialized
+[2026-01-02 16:21:48] INFO : BasePage Initialized
+[2026-01-02 16:21:48] INFO : BasePage Initialized
+[2026-01-02 16:21:48] INFO : BasePage Initialized
+[2026-01-02 16:21:48] INFO : BasePage Initialized
+[2026-01-02 16:21:48] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:21:49] INFO : BasePage Initialized
+[2026-01-02 16:21:49] INFO : BasePage Initialized
+[2026-01-02 16:21:49] INFO : BasePage Initialized
+[2026-01-02 16:21:50] INFO : BasePage Initialized
+[2026-01-02 16:21:50] INFO : BasePage Initialized
+[2026-01-02 16:21:50] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:21:51] INFO : SELECT : Phones 
+[2026-01-02 16:21:51] INFO : Selected Name: Phones
+[2026-01-02 16:21:51] INFO : Waiting for items to load after category selection
+[2026-01-02 16:21:51] INFO : Waiting for items to load after category selection
+[2026-01-02 16:21:51] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-02 16:21:52] INFO : Item clicked: Samsung galaxy s6
+[2026-01-02 16:21:54] INFO : BasePage Initialized
+[2026-01-02 16:21:54] INFO : BasePage Initialized
+[2026-01-02 16:21:54] INFO : BasePage Initialized
+[2026-01-02 16:21:54] INFO : BasePage Initialized
+[2026-01-02 16:21:54] INFO : BasePage Initialized
+[2026-01-02 16:21:54] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:21:56] INFO : SELECT : Phones 
+[2026-01-02 16:21:56] INFO : Selected Name: Phones
+[2026-01-02 16:21:56] INFO : Waiting for items to load after category selection
+[2026-01-02 16:21:56] INFO : Waiting for items to load after category selection
+[2026-01-02 16:21:56] INFO : Searching for item across pages: Nexus 6
+[2026-01-02 16:21:57] INFO : Item clicked: Nexus 6
+[2026-01-02 16:21:59] INFO : BasePage Initialized
+[2026-01-02 16:21:59] INFO : BasePage Initialized
+[2026-01-02 16:21:59] INFO : BasePage Initialized
+[2026-01-02 16:21:59] INFO : BasePage Initialized
+[2026-01-02 16:21:59] INFO : BasePage Initialized
+[2026-01-02 16:21:59] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:22:00] INFO : SELECT : Phones 
+[2026-01-02 16:22:00] INFO : Selected Name: Phones
+[2026-01-02 16:22:00] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:00] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:00] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:22:01] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:22:03] INFO : BasePage Initialized
+[2026-01-02 16:22:03] INFO : BasePage Initialized
+[2026-01-02 16:22:03] INFO : BasePage Initialized
+[2026-01-02 16:22:03] INFO : BasePage Initialized
+[2026-01-02 16:22:03] INFO : BasePage Initialized
+[2026-01-02 16:22:03] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:22:04] INFO : SELECT : Phones 
+[2026-01-02 16:22:04] INFO : Selected Name: Phones
+[2026-01-02 16:22:04] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:05] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:05] INFO : Searching for item across pages: Sony xperia z5
+[2026-01-02 16:22:05] INFO : Item clicked: Sony xperia z5
+[2026-01-02 16:22:07] INFO : BasePage Initialized
+[2026-01-02 16:22:07] INFO : BasePage Initialized
+[2026-01-02 16:22:07] INFO : BasePage Initialized
+[2026-01-02 16:22:07] INFO : BasePage Initialized
+[2026-01-02 16:22:07] INFO : BasePage Initialized
+[2026-01-02 16:22:07] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:22:08] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:09] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:22:10] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:22:12] INFO : BasePage Initialized
+[2026-01-02 16:22:12] INFO : BasePage Initialized
+[2026-01-02 16:22:12] INFO : BasePage Initialized
+[2026-01-02 16:22:12] INFO : BasePage Initialized
+[2026-01-02 16:22:12] INFO : BasePage Initialized
+[2026-01-02 16:22:12] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:22:13] INFO : Waiting for items to load after category selection
+[2026-01-02 16:22:15] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:22:15] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:22:15] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:24:00] INFO : BasePage Initialized
+[2026-01-02 16:24:00] INFO : BasePage Initialized
+[2026-01-02 16:24:00] INFO : BasePage Initialized
+[2026-01-02 16:24:00] INFO : BasePage Initialized
+[2026-01-02 16:24:00] INFO : BasePage Initialized
+[2026-01-02 16:24:00] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:24:01] INFO : Waiting for items to load after category selection
+[2026-01-02 16:24:02] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:24:02] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:24:02] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:26:27] INFO : BasePage Initialized
+[2026-01-02 16:26:27] INFO : BasePage Initialized
+[2026-01-02 16:26:27] INFO : BasePage Initialized
+[2026-01-02 16:26:27] INFO : BasePage Initialized
+[2026-01-02 16:26:27] INFO : BasePage Initialized
+[2026-01-02 16:26:27] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:26:28] INFO : Waiting for items to load after category selection
+[2026-01-02 16:26:29] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:26:30] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:26:30] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:33:50] INFO : BasePage Initialized
+[2026-01-02 16:33:50] INFO : BasePage Initialized
+[2026-01-02 16:33:50] INFO : BasePage Initialized
+[2026-01-02 16:33:50] INFO : BasePage Initialized
+[2026-01-02 16:33:50] INFO : BasePage Initialized
+[2026-01-02 16:33:50] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:33:51] INFO : Waiting for items to load after category selection
+[2026-01-02 16:33:52] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:33:52] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:33:52] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:34:47] INFO : BasePage Initialized
+[2026-01-02 16:34:47] INFO : BasePage Initialized
+[2026-01-02 16:34:47] INFO : BasePage Initialized
+[2026-01-02 16:34:47] INFO : BasePage Initialized
+[2026-01-02 16:34:47] INFO : BasePage Initialized
+[2026-01-02 16:34:47] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:34:49] INFO : SELECT : Phones 
+[2026-01-02 16:34:49] INFO : Selected Name: Phones
+[2026-01-02 16:34:49] INFO : Waiting for items to load after category selection
+[2026-01-02 16:34:49] INFO : Waiting for items to load after category selection
+[2026-01-02 16:34:49] INFO : Validation of displayed items
+[2026-01-02 16:34:49] INFO : Number of items displayed: 9
+[2026-01-02 16:34:49] INFO : UI item found: Samsung galaxy s6
+[2026-01-02 16:34:49] INFO : UI item found: Nokia lumia 1520
+[2026-01-02 16:34:49] INFO : UI item found: Nexus 6
+[2026-01-02 16:34:49] INFO : UI item found: Samsung galaxy s7
+[2026-01-02 16:34:49] INFO : UI item found: Iphone 6 32gb
+[2026-01-02 16:34:49] INFO : UI item found: Sony xperia z5
+[2026-01-02 16:34:49] INFO : UI item found: HTC One M9
+[2026-01-02 16:34:49] INFO : UI item found: Sony vaio i5
+[2026-01-02 16:34:49] INFO : UI item found: Sony vaio i7
+[2026-01-02 16:34:49] ERROR : Validation failed: Unexpected item found: Sony vaio i5
+[2026-01-02 16:34:50] INFO : BasePage Initialized
+[2026-01-02 16:34:50] INFO : BasePage Initialized
+[2026-01-02 16:34:50] INFO : BasePage Initialized
+[2026-01-02 16:34:50] INFO : BasePage Initialized
+[2026-01-02 16:34:50] INFO : BasePage Initialized
+[2026-01-02 16:34:50] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:34:52] INFO : SELECT : Phones 
+[2026-01-02 16:34:52] INFO : Selected Name: Phones
+[2026-01-02 16:34:52] INFO : Waiting for items to load after category selection
+[2026-01-02 16:34:54] INFO : Waiting for items to load after category selection
+[2026-01-02 16:34:54] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-02 16:34:54] INFO : Item clicked: Samsung galaxy s6
+[2026-01-02 16:34:57] INFO : BasePage Initialized
+[2026-01-02 16:34:57] INFO : BasePage Initialized
+[2026-01-02 16:34:57] INFO : BasePage Initialized
+[2026-01-02 16:34:57] INFO : BasePage Initialized
+[2026-01-02 16:34:57] INFO : BasePage Initialized
+[2026-01-02 16:34:57] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:34:58] INFO : SELECT : Phones 
+[2026-01-02 16:34:59] INFO : Selected Name: Phones
+[2026-01-02 16:34:59] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:01] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:01] INFO : Searching for item across pages: Nexus 6
+[2026-01-02 16:35:01] INFO : Item clicked: Nexus 6
+[2026-01-02 16:35:04] INFO : BasePage Initialized
+[2026-01-02 16:35:04] INFO : BasePage Initialized
+[2026-01-02 16:35:04] INFO : BasePage Initialized
+[2026-01-02 16:35:04] INFO : BasePage Initialized
+[2026-01-02 16:35:04] INFO : BasePage Initialized
+[2026-01-02 16:35:04] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:35:05] INFO : SELECT : Phones 
+[2026-01-02 16:35:05] INFO : Selected Name: Phones
+[2026-01-02 16:35:05] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:06] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:06] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:35:06] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:35:08] INFO : BasePage Initialized
+[2026-01-02 16:35:08] INFO : BasePage Initialized
+[2026-01-02 16:35:08] INFO : BasePage Initialized
+[2026-01-02 16:35:08] INFO : BasePage Initialized
+[2026-01-02 16:35:08] INFO : BasePage Initialized
+[2026-01-02 16:35:08] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:35:09] INFO : SELECT : Phones 
+[2026-01-02 16:35:09] INFO : Selected Name: Phones
+[2026-01-02 16:35:09] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:10] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:10] INFO : Searching for item across pages: Sony xperia z5
+[2026-01-02 16:35:11] INFO : Item clicked: Sony xperia z5
+[2026-01-02 16:35:13] INFO : BasePage Initialized
+[2026-01-02 16:35:13] INFO : BasePage Initialized
+[2026-01-02 16:35:13] INFO : BasePage Initialized
+[2026-01-02 16:35:13] INFO : BasePage Initialized
+[2026-01-02 16:35:13] INFO : BasePage Initialized
+[2026-01-02 16:35:13] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:35:14] INFO : Waiting for items to load after category selection
+[2026-01-02 16:35:15] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:35:16] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:35:16] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:38:54] INFO : BasePage Initialized
+[2026-01-02 16:38:54] INFO : BasePage Initialized
+[2026-01-02 16:38:54] INFO : BasePage Initialized
+[2026-01-02 16:38:54] INFO : BasePage Initialized
+[2026-01-02 16:38:54] INFO : BasePage Initialized
+[2026-01-02 16:38:54] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:38:56] INFO : Waiting for items to load after category selection
+[2026-01-02 16:38:57] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:38:57] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:38:57] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:44:37] INFO : BasePage Initialized
+[2026-01-02 16:44:37] INFO : BasePage Initialized
+[2026-01-02 16:44:37] INFO : BasePage Initialized
+[2026-01-02 16:44:37] INFO : BasePage Initialized
+[2026-01-02 16:44:37] INFO : BasePage Initialized
+[2026-01-02 16:44:37] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:44:38] INFO : Waiting for items to load after category selection
+[2026-01-02 16:44:39] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:44:39] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:44:39] INFO : ACTION -> CLICKING: Click Element
+[2026-01-02 16:52:00] INFO : BasePage Initialized
+[2026-01-02 16:52:00] INFO : BasePage Initialized
+[2026-01-02 16:52:00] INFO : BasePage Initialized
+[2026-01-02 16:52:00] INFO : BasePage Initialized
+[2026-01-02 16:52:00] INFO : BasePage Initialized
+[2026-01-02 16:52:00] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-02 16:52:01] INFO : Waiting for items to load after category selection
+[2026-01-02 16:52:02] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-02 16:52:02] INFO : Item clicked: Iphone 6 32gb
+[2026-01-02 16:52:02] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 12:46:40] INFO : BasePage Initialized
+[2026-01-05 12:46:41] INFO : BasePage Initialized
+[2026-01-05 12:46:41] INFO : BasePage Initialized
+[2026-01-05 12:46:41] INFO : BasePage Initialized
+[2026-01-05 12:46:41] INFO : BasePage Initialized
+[2026-01-05 12:46:41] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:46:43] INFO : BasePage Initialized
+[2026-01-05 12:46:43] INFO : BasePage Initialized
+[2026-01-05 12:46:43] INFO : BasePage Initialized
+[2026-01-05 12:46:43] INFO : BasePage Initialized
+[2026-01-05 12:46:43] INFO : BasePage Initialized
+[2026-01-05 12:46:43] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:46:44] INFO : BasePage Initialized
+[2026-01-05 12:46:44] INFO : BasePage Initialized
+[2026-01-05 12:46:44] INFO : BasePage Initialized
+[2026-01-05 12:46:44] INFO : BasePage Initialized
+[2026-01-05 12:46:44] INFO : BasePage Initialized
+[2026-01-05 12:46:44] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:46:45] INFO : SELECT : Phones 
+[2026-01-05 12:46:45] INFO : Selected Name: Phones
+[2026-01-05 12:46:45] INFO : Waiting for items to load after category selection
+[2026-01-05 12:46:46] INFO : Waiting for items to load after category selection
+[2026-01-05 12:46:46] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-05 12:46:46] INFO : Item clicked: Samsung galaxy s6
+[2026-01-05 12:46:48] INFO : BasePage Initialized
+[2026-01-05 12:46:48] INFO : BasePage Initialized
+[2026-01-05 12:46:48] INFO : BasePage Initialized
+[2026-01-05 12:46:48] INFO : BasePage Initialized
+[2026-01-05 12:46:48] INFO : BasePage Initialized
+[2026-01-05 12:46:48] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:46:49] INFO : SELECT : Phones 
+[2026-01-05 12:46:49] INFO : Selected Name: Phones
+[2026-01-05 12:46:49] INFO : Waiting for items to load after category selection
+[2026-01-05 12:46:50] INFO : Waiting for items to load after category selection
+[2026-01-05 12:46:50] INFO : Searching for item across pages: Nexus 6
+[2026-01-05 12:46:50] INFO : Item clicked: Nexus 6
+[2026-01-05 12:46:58] INFO : BasePage Initialized
+[2026-01-05 12:46:58] INFO : BasePage Initialized
+[2026-01-05 12:46:58] INFO : BasePage Initialized
+[2026-01-05 12:46:58] INFO : BasePage Initialized
+[2026-01-05 12:46:58] INFO : BasePage Initialized
+[2026-01-05 12:46:58] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:46:59] INFO : SELECT : Phones 
+[2026-01-05 12:46:59] INFO : Selected Name: Phones
+[2026-01-05 12:46:59] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:00] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:00] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 12:47:00] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 12:47:03] INFO : BasePage Initialized
+[2026-01-05 12:47:03] INFO : BasePage Initialized
+[2026-01-05 12:47:03] INFO : BasePage Initialized
+[2026-01-05 12:47:03] INFO : BasePage Initialized
+[2026-01-05 12:47:03] INFO : BasePage Initialized
+[2026-01-05 12:47:03] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:47:04] INFO : SELECT : Phones 
+[2026-01-05 12:47:04] INFO : Selected Name: Phones
+[2026-01-05 12:47:04] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:05] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:05] INFO : Searching for item across pages: Sony xperia z5
+[2026-01-05 12:47:06] INFO : Item clicked: Sony xperia z5
+[2026-01-05 12:47:08] INFO : BasePage Initialized
+[2026-01-05 12:47:08] INFO : BasePage Initialized
+[2026-01-05 12:47:08] INFO : BasePage Initialized
+[2026-01-05 12:47:08] INFO : BasePage Initialized
+[2026-01-05 12:47:08] INFO : BasePage Initialized
+[2026-01-05 12:47:08] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:47:09] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:10] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 12:47:11] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 12:47:11] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 12:47:45] INFO : BasePage Initialized
+[2026-01-05 12:47:45] INFO : BasePage Initialized
+[2026-01-05 12:47:45] INFO : BasePage Initialized
+[2026-01-05 12:47:45] INFO : BasePage Initialized
+[2026-01-05 12:47:45] INFO : BasePage Initialized
+[2026-01-05 12:47:45] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:47:47] INFO : BasePage Initialized
+[2026-01-05 12:47:47] INFO : BasePage Initialized
+[2026-01-05 12:47:47] INFO : BasePage Initialized
+[2026-01-05 12:47:47] INFO : BasePage Initialized
+[2026-01-05 12:47:47] INFO : BasePage Initialized
+[2026-01-05 12:47:47] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:47:48] INFO : Waiting for items to load after category selection
+[2026-01-05 12:47:49] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 12:47:49] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 12:47:49] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 12:51:08] INFO : BasePage Initialized
+[2026-01-05 12:51:08] INFO : BasePage Initialized
+[2026-01-05 12:51:08] INFO : BasePage Initialized
+[2026-01-05 12:51:08] INFO : BasePage Initialized
+[2026-01-05 12:51:08] INFO : BasePage Initialized
+[2026-01-05 12:51:08] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:51:09] INFO : Navigate to URL: https://demoblaze.com/cart.html
+[2026-01-05 12:51:11] INFO : BasePage Initialized
+[2026-01-05 12:51:11] INFO : BasePage Initialized
+[2026-01-05 12:51:11] INFO : BasePage Initialized
+[2026-01-05 12:51:11] INFO : BasePage Initialized
+[2026-01-05 12:51:11] INFO : BasePage Initialized
+[2026-01-05 12:51:11] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 12:51:12] INFO : Waiting for items to load after category selection
+[2026-01-05 12:51:13] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 12:51:13] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 12:51:13] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 13:37:41] INFO : BasePage Initialized
+[2026-01-05 13:37:41] INFO : BasePage Initialized
+[2026-01-05 13:37:41] INFO : BasePage Initialized
+[2026-01-05 13:37:41] INFO : BasePage Initialized
+[2026-01-05 13:37:41] INFO : BasePage Initialized
+[2026-01-05 13:37:41] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 13:37:42] INFO : Waiting for items to load after category selection
+[2026-01-05 13:37:43] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 13:37:43] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 13:37:43] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 13:37:44] INFO : SELECT : Cart 
+[2026-01-05 13:37:45] INFO : Selected Name: Cart
+[2026-01-05 13:39:36] INFO : BasePage Initialized
+[2026-01-05 13:39:36] INFO : BasePage Initialized
+[2026-01-05 13:39:36] INFO : BasePage Initialized
+[2026-01-05 13:39:36] INFO : BasePage Initialized
+[2026-01-05 13:39:36] INFO : BasePage Initialized
+[2026-01-05 13:39:36] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 13:39:43] INFO : BasePage Initialized
+[2026-01-05 13:39:43] INFO : BasePage Initialized
+[2026-01-05 13:39:43] INFO : BasePage Initialized
+[2026-01-05 13:39:44] INFO : BasePage Initialized
+[2026-01-05 13:39:44] INFO : BasePage Initialized
+[2026-01-05 13:39:44] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 13:39:44] INFO : Waiting for items to load after category selection
+[2026-01-05 13:39:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 13:39:46] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 13:39:46] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 13:39:48] INFO : SELECT : Cart 
+[2026-01-05 13:39:48] INFO : Selected Name: Cart
+[2026-01-05 13:39:48] INFO : Waiting for items to load after category selection
+[2026-01-05 13:41:27] INFO : BasePage Initialized
+[2026-01-05 13:41:27] INFO : BasePage Initialized
+[2026-01-05 13:41:27] INFO : BasePage Initialized
+[2026-01-05 13:41:27] INFO : BasePage Initialized
+[2026-01-05 13:41:27] INFO : BasePage Initialized
+[2026-01-05 13:41:27] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 13:41:28] INFO : Waiting for items to load after category selection
+[2026-01-05 13:41:29] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 13:41:29] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 13:41:29] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 13:41:31] INFO : SELECT : Cart 
+[2026-01-05 13:41:32] INFO : Selected Name: Cart
+[2026-01-05 13:41:32] INFO : Waiting for items to load after category selection
+[2026-01-05 13:50:50] INFO : BasePage Initialized
+[2026-01-05 13:50:50] INFO : BasePage Initialized
+[2026-01-05 13:50:50] INFO : BasePage Initialized
+[2026-01-05 13:50:50] INFO : BasePage Initialized
+[2026-01-05 13:50:50] INFO : BasePage Initialized
+[2026-01-05 13:50:50] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 13:50:51] INFO : Waiting for items to load after category selection
+[2026-01-05 13:50:52] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 13:50:53] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 13:50:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 13:50:54] INFO : SELECT : Cart 
+[2026-01-05 13:50:54] INFO : Selected Name: Cart
+[2026-01-05 13:50:54] INFO : Waiting for items to load after category selection
+[2026-01-05 13:50:56] INFO : Waiting for items to load after category selection
+[2026-01-05 14:36:53] INFO : BasePage Initialized
+[2026-01-05 14:36:53] INFO : BasePage Initialized
+[2026-01-05 14:36:53] INFO : BasePage Initialized
+[2026-01-05 14:36:53] INFO : BasePage Initialized
+[2026-01-05 14:36:53] INFO : BasePage Initialized
+[2026-01-05 14:36:53] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 14:36:54] INFO : Waiting for items to load after category selection
+[2026-01-05 14:36:55] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 14:36:55] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 14:36:55] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 14:36:56] INFO : SELECT : Cart 
+[2026-01-05 14:36:56] INFO : Selected Name: Cart
+[2026-01-05 14:36:56] INFO : Waiting for items to load after category selection
+[2026-01-05 14:36:58] INFO : Waiting for items to load after category selection
+[2026-01-05 14:36:58] INFO : Number of devices found: 2
+[2026-01-05 14:36:58] INFO : Number of devices found: 2
+[2026-01-05 14:38:30] INFO : BasePage Initialized
+[2026-01-05 14:38:30] INFO : BasePage Initialized
+[2026-01-05 14:38:30] INFO : BasePage Initialized
+[2026-01-05 14:38:30] INFO : BasePage Initialized
+[2026-01-05 14:38:30] INFO : BasePage Initialized
+[2026-01-05 14:38:30] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 14:38:31] INFO : Waiting for items to load after category selection
+[2026-01-05 14:38:32] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 14:38:33] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 14:38:33] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 14:38:34] INFO : SELECT : Cart 
+[2026-01-05 14:38:34] INFO : Selected Name: Cart
+[2026-01-05 14:38:34] INFO : Waiting for items to load after category selection
+[2026-01-05 14:38:36] INFO : Waiting for items to load after category selection
+[2026-01-05 14:38:36] INFO : Number of devices found: 3
+[2026-01-05 14:38:36] INFO : Number of devices found: 3
+[2026-01-05 14:45:48] INFO : BasePage Initialized
+[2026-01-05 14:45:48] INFO : BasePage Initialized
+[2026-01-05 14:45:48] INFO : BasePage Initialized
+[2026-01-05 14:45:48] INFO : BasePage Initialized
+[2026-01-05 14:45:48] INFO : BasePage Initialized
+[2026-01-05 14:45:48] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 14:45:49] INFO : Waiting for items to load after category selection
+[2026-01-05 14:45:49] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 14:45:50] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 14:45:50] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 14:45:51] INFO : SELECT : Cart 
+[2026-01-05 14:45:51] INFO : Selected Name: Cart
+[2026-01-05 14:45:51] INFO : Waiting for items to load after category selection
+[2026-01-05 14:45:53] INFO : Waiting for items to load after category selection
+[2026-01-05 14:45:53] INFO : Number of devices found: 4
+[2026-01-05 14:45:53] INFO : Number of devices found: 4
+[2026-01-05 15:34:08] INFO : BasePage Initialized
+[2026-01-05 15:34:08] INFO : BasePage Initialized
+[2026-01-05 15:34:08] INFO : BasePage Initialized
+[2026-01-05 15:34:08] INFO : BasePage Initialized
+[2026-01-05 15:34:08] INFO : BasePage Initialized
+[2026-01-05 15:34:08] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:34:09] INFO : Waiting for items to load after category selection
+[2026-01-05 15:34:10] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:34:11] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:34:11] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:34:12] INFO : SELECT : Cart 
+[2026-01-05 15:34:12] INFO : Selected Name: Cart
+[2026-01-05 15:34:12] INFO : Waiting for items to load after category selection
+[2026-01-05 15:34:14] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:34:14] ERROR : ERROR: Click Element
+[2026-01-05 15:37:39] INFO : BasePage Initialized
+[2026-01-05 15:37:39] INFO : BasePage Initialized
+[2026-01-05 15:37:39] INFO : BasePage Initialized
+[2026-01-05 15:37:39] INFO : BasePage Initialized
+[2026-01-05 15:37:39] INFO : BasePage Initialized
+[2026-01-05 15:37:39] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:37:45] INFO : BasePage Initialized
+[2026-01-05 15:37:45] INFO : BasePage Initialized
+[2026-01-05 15:37:45] INFO : BasePage Initialized
+[2026-01-05 15:37:45] INFO : BasePage Initialized
+[2026-01-05 15:37:45] INFO : BasePage Initialized
+[2026-01-05 15:37:45] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:37:46] INFO : Waiting for items to load after category selection
+[2026-01-05 15:37:47] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:37:47] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:37:47] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:37:48] INFO : SELECT : Cart 
+[2026-01-05 15:37:49] INFO : Selected Name: Cart
+[2026-01-05 15:37:49] INFO : Waiting for items to load after category selection
+[2026-01-05 15:37:51] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:37:51] ERROR : ERROR: Click Element
+[2026-01-05 15:39:25] INFO : BasePage Initialized
+[2026-01-05 15:39:25] INFO : BasePage Initialized
+[2026-01-05 15:39:25] INFO : BasePage Initialized
+[2026-01-05 15:39:25] INFO : BasePage Initialized
+[2026-01-05 15:39:25] INFO : BasePage Initialized
+[2026-01-05 15:39:25] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:39:26] INFO : Waiting for items to load after category selection
+[2026-01-05 15:39:27] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:39:28] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:39:28] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:39:30] INFO : SELECT : Cart 
+[2026-01-05 15:39:30] INFO : Selected Name: Cart
+[2026-01-05 15:39:30] INFO : Waiting for items to load after category selection
+[2026-01-05 15:39:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:39:37] ERROR : ERROR: Click Element
+[2026-01-05 15:40:31] INFO : BasePage Initialized
+[2026-01-05 15:40:31] INFO : BasePage Initialized
+[2026-01-05 15:40:31] INFO : BasePage Initialized
+[2026-01-05 15:40:31] INFO : BasePage Initialized
+[2026-01-05 15:40:31] INFO : BasePage Initialized
+[2026-01-05 15:40:31] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:40:33] INFO : Waiting for items to load after category selection
+[2026-01-05 15:40:33] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:40:34] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:40:34] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:40:36] INFO : SELECT : Cart 
+[2026-01-05 15:40:36] INFO : Selected Name: Cart
+[2026-01-05 15:40:36] INFO : Waiting for items to load after category selection
+[2026-01-05 15:40:38] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:40:43] ERROR : ERROR: Click Element
+[2026-01-05 15:50:19] INFO : BasePage Initialized
+[2026-01-05 15:50:19] INFO : BasePage Initialized
+[2026-01-05 15:50:19] INFO : BasePage Initialized
+[2026-01-05 15:50:19] INFO : BasePage Initialized
+[2026-01-05 15:50:19] INFO : BasePage Initialized
+[2026-01-05 15:50:19] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:50:20] INFO : Waiting for items to load after category selection
+[2026-01-05 15:50:21] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:50:21] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:50:21] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:50:23] INFO : SELECT : Cart 
+[2026-01-05 15:50:24] INFO : Selected Name: Cart
+[2026-01-05 15:50:24] INFO : Waiting for items to load after category selection
+[2026-01-05 15:50:26] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:50:26] ERROR : ERROR: Click Element
+[2026-01-05 15:50:26] INFO :  Screenshot captured: screenshots/Click Failed-1767608426043.png
+[2026-01-05 15:50:43] INFO : BasePage Initialized
+[2026-01-05 15:50:43] INFO : BasePage Initialized
+[2026-01-05 15:50:43] INFO : BasePage Initialized
+[2026-01-05 15:50:43] INFO : BasePage Initialized
+[2026-01-05 15:50:43] INFO : BasePage Initialized
+[2026-01-05 15:50:43] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:50:44] INFO : Waiting for items to load after category selection
+[2026-01-05 15:50:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:50:45] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:50:45] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:50:46] INFO : SELECT : Cart 
+[2026-01-05 15:50:47] INFO : Selected Name: Cart
+[2026-01-05 15:50:47] INFO : Waiting for items to load after category selection
+[2026-01-05 15:50:49] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:50:49] ERROR : ERROR: Click Element
+[2026-01-05 15:50:49] INFO :  Screenshot captured: screenshots/Click Failed-1767608449216.png
+[2026-01-05 15:56:45] INFO : BasePage Initialized
+[2026-01-05 15:56:45] INFO : BasePage Initialized
+[2026-01-05 15:56:45] INFO : BasePage Initialized
+[2026-01-05 15:56:45] INFO : BasePage Initialized
+[2026-01-05 15:56:45] INFO : BasePage Initialized
+[2026-01-05 15:56:45] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:57:03] INFO : BasePage Initialized
+[2026-01-05 15:57:03] INFO : BasePage Initialized
+[2026-01-05 15:57:03] INFO : BasePage Initialized
+[2026-01-05 15:57:03] INFO : BasePage Initialized
+[2026-01-05 15:57:03] INFO : BasePage Initialized
+[2026-01-05 15:57:03] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 15:57:05] INFO : Waiting for items to load after category selection
+[2026-01-05 15:57:06] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 15:57:06] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 15:57:06] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 15:57:07] INFO : SELECT : Cart 
+[2026-01-05 15:57:07] INFO : Selected Name: Cart
+[2026-01-05 15:57:07] INFO : Waiting for items to load after category selection
+[2026-01-05 15:57:09] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:09:20] INFO : BasePage Initialized
+[2026-01-05 16:09:20] INFO : BasePage Initialized
+[2026-01-05 16:09:20] INFO : BasePage Initialized
+[2026-01-05 16:09:20] INFO : BasePage Initialized
+[2026-01-05 16:09:20] INFO : BasePage Initialized
+[2026-01-05 16:09:20] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 16:09:22] INFO : Waiting for items to load after category selection
+[2026-01-05 16:09:22] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 16:09:22] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 16:09:22] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:09:23] INFO : SELECT : Cart 
+[2026-01-05 16:09:24] INFO : Selected Name: Cart
+[2026-01-05 16:09:24] INFO : Waiting for items to load after category selection
+[2026-01-05 16:09:26] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:19:22] INFO : BasePage Initialized
+[2026-01-05 16:19:22] INFO : BasePage Initialized
+[2026-01-05 16:19:22] INFO : BasePage Initialized
+[2026-01-05 16:19:22] INFO : BasePage Initialized
+[2026-01-05 16:19:22] INFO : BasePage Initialized
+[2026-01-05 16:19:22] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 16:19:23] INFO : Waiting for items to load after category selection
+[2026-01-05 16:19:24] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 16:19:25] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 16:19:25] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:19:26] INFO : SELECT : Cart 
+[2026-01-05 16:19:26] INFO : Selected Name: Cart
+[2026-01-05 16:19:26] INFO : Waiting for items to load after category selection
+[2026-01-05 16:19:28] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:27:36] INFO : BasePage Initialized
+[2026-01-05 16:27:36] INFO : BasePage Initialized
+[2026-01-05 16:27:36] INFO : BasePage Initialized
+[2026-01-05 16:27:36] INFO : BasePage Initialized
+[2026-01-05 16:27:36] INFO : BasePage Initialized
+[2026-01-05 16:27:36] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-05 16:27:37] INFO : Waiting for items to load after category selection
+[2026-01-05 16:27:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-05 16:27:38] INFO : Item clicked: Iphone 6 32gb
+[2026-01-05 16:27:38] INFO : ACTION -> CLICKING: Click Element
+[2026-01-05 16:27:39] INFO : SELECT : Cart 
+[2026-01-05 16:27:40] INFO : Selected Name: Cart
+[2026-01-05 16:27:40] INFO : Waiting for items to load after category selection
+[2026-01-05 16:27:42] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 12:36:12] INFO : BasePage Initialized
+[2026-01-06 12:36:12] INFO : BasePage Initialized
+[2026-01-06 12:36:12] INFO : BasePage Initialized
+[2026-01-06 12:36:12] INFO : BasePage Initialized
+[2026-01-06 12:36:12] INFO : BasePage Initialized
+[2026-01-06 12:36:12] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 12:36:13] INFO : Waiting for items to load after category selection
+[2026-01-06 12:36:14] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 12:36:15] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 12:36:15] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 12:36:16] INFO : SELECT : Cart 
+[2026-01-06 12:36:16] INFO : Selected Name: Cart
+[2026-01-06 12:36:16] INFO : Waiting for items to load after category selection
+[2026-01-06 12:36:18] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 12:40:21] INFO : BasePage Initialized
+[2026-01-06 12:40:21] INFO : BasePage Initialized
+[2026-01-06 12:40:21] INFO : BasePage Initialized
+[2026-01-06 12:40:21] INFO : BasePage Initialized
+[2026-01-06 12:40:21] INFO : BasePage Initialized
+[2026-01-06 12:40:21] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 12:40:23] INFO : Waiting for items to load after category selection
+[2026-01-06 12:40:24] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 12:40:24] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 12:40:24] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 12:40:25] INFO : SELECT : Cart 
+[2026-01-06 12:40:26] INFO : Selected Name: Cart
+[2026-01-06 12:40:26] INFO : Waiting for items to load after category selection
+[2026-01-06 12:40:27] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:22:00] INFO : BasePage Initialized
+[2026-01-06 14:22:00] INFO : BasePage Initialized
+[2026-01-06 14:22:00] INFO : BasePage Initialized
+[2026-01-06 14:22:01] INFO : BasePage Initialized
+[2026-01-06 14:22:01] INFO : BasePage Initialized
+[2026-01-06 14:22:01] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:22:02] INFO : Waiting for items to load after category selection
+[2026-01-06 14:22:03] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:22:03] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:22:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:22:07] ERROR : ERROR: Click Element
+[2026-01-06 14:27:42] INFO : BasePage Initialized
+[2026-01-06 14:27:42] INFO : BasePage Initialized
+[2026-01-06 14:27:42] INFO : BasePage Initialized
+[2026-01-06 14:27:42] INFO : BasePage Initialized
+[2026-01-06 14:27:42] INFO : BasePage Initialized
+[2026-01-06 14:27:42] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:27:52] INFO : BasePage Initialized
+[2026-01-06 14:27:52] INFO : BasePage Initialized
+[2026-01-06 14:27:52] INFO : BasePage Initialized
+[2026-01-06 14:27:52] INFO : BasePage Initialized
+[2026-01-06 14:27:52] INFO : BasePage Initialized
+[2026-01-06 14:27:52] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:27:53] INFO : Waiting for items to load after category selection
+[2026-01-06 14:27:54] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:27:55] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:27:55] INFO : Waiting for items to load after category selection
+[2026-01-06 14:27:56] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:27:58] ERROR : ERROR: Click Element
+[2026-01-06 14:30:27] INFO : BasePage Initialized
+[2026-01-06 14:30:27] INFO : BasePage Initialized
+[2026-01-06 14:30:27] INFO : BasePage Initialized
+[2026-01-06 14:30:27] INFO : BasePage Initialized
+[2026-01-06 14:30:27] INFO : BasePage Initialized
+[2026-01-06 14:30:27] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:30:28] INFO : Waiting for items to load after category selection
+[2026-01-06 14:30:29] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:30:29] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:30:29] INFO : Waiting for items to load after category selection
+[2026-01-06 14:30:31] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:30:31] INFO : Waiting for items to load after category selection
+[2026-01-06 14:30:32] INFO : Alert message: Product added.
+[2026-01-06 14:34:57] INFO : BasePage Initialized
+[2026-01-06 14:34:57] INFO : BasePage Initialized
+[2026-01-06 14:34:57] INFO : BasePage Initialized
+[2026-01-06 14:34:57] INFO : BasePage Initialized
+[2026-01-06 14:34:57] INFO : BasePage Initialized
+[2026-01-06 14:34:57] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:35:22] INFO : BasePage Initialized
+[2026-01-06 14:35:22] INFO : BasePage Initialized
+[2026-01-06 14:35:22] INFO : BasePage Initialized
+[2026-01-06 14:35:22] INFO : BasePage Initialized
+[2026-01-06 14:35:22] INFO : BasePage Initialized
+[2026-01-06 14:35:22] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:35:37] INFO : BasePage Initialized
+[2026-01-06 14:35:37] INFO : BasePage Initialized
+[2026-01-06 14:35:37] INFO : BasePage Initialized
+[2026-01-06 14:35:37] INFO : BasePage Initialized
+[2026-01-06 14:35:37] INFO : BasePage Initialized
+[2026-01-06 14:35:37] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:35:38] INFO : Waiting for items to load after category selection
+[2026-01-06 14:35:39] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:35:40] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:35:40] INFO : Waiting for items to load after category selection
+[2026-01-06 14:35:41] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:35:41] INFO : Waiting for items to load after category selection
+[2026-01-06 14:35:42] INFO : Alert message: Product added.
+[2026-01-06 14:41:38] INFO : BasePage Initialized
+[2026-01-06 14:41:38] INFO : BasePage Initialized
+[2026-01-06 14:41:38] INFO : BasePage Initialized
+[2026-01-06 14:41:38] INFO : BasePage Initialized
+[2026-01-06 14:41:38] INFO : BasePage Initialized
+[2026-01-06 14:41:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:41:39] INFO : Waiting for items to load after category selection
+[2026-01-06 14:41:39] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:41:40] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:41:40] INFO : Waiting for items to load after category selection
+[2026-01-06 14:41:41] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:41:41] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:41:41] INFO : Waiting for items to load after category selection
+[2026-01-06 14:41:42] INFO : Searching for item across pages: Nexus 6
+[2026-01-06 14:41:42] INFO : Item clicked: Nexus 6
+[2026-01-06 14:41:42] INFO : Waiting for items to load after category selection
+[2026-01-06 14:41:43] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:41:43] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:41:43] INFO : Waiting for items to load after category selection
+[2026-01-06 14:41:43] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 14:41:44] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 14:41:44] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:20] INFO : BasePage Initialized
+[2026-01-06 14:42:20] INFO : BasePage Initialized
+[2026-01-06 14:42:20] INFO : BasePage Initialized
+[2026-01-06 14:42:20] INFO : BasePage Initialized
+[2026-01-06 14:42:20] INFO : BasePage Initialized
+[2026-01-06 14:42:20] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:42:22] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:22] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:42:23] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:42:23] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:24] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:42:24] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:42:24] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:25] INFO : Searching for item across pages: Nexus 6
+[2026-01-06 14:42:25] INFO : Item clicked: Nexus 6
+[2026-01-06 14:42:25] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:26] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:42:26] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:42:26] INFO : Waiting for items to load after category selection
+[2026-01-06 14:42:26] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 14:42:27] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 14:42:27] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:28] INFO : BasePage Initialized
+[2026-01-06 14:43:28] INFO : BasePage Initialized
+[2026-01-06 14:43:28] INFO : BasePage Initialized
+[2026-01-06 14:43:28] INFO : BasePage Initialized
+[2026-01-06 14:43:28] INFO : BasePage Initialized
+[2026-01-06 14:43:28] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:43:30] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:30] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:43:31] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:43:31] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:43:32] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:43:32] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:32] INFO : Searching for item across pages: Nexus 6
+[2026-01-06 14:43:33] INFO : Item clicked: Nexus 6
+[2026-01-06 14:43:33] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:33] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:43:34] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:34] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:43:34] INFO : Waiting for items to load after category selection
+[2026-01-06 14:43:34] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 14:43:35] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 14:43:35] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:30] INFO : BasePage Initialized
+[2026-01-06 14:45:30] INFO : BasePage Initialized
+[2026-01-06 14:45:30] INFO : BasePage Initialized
+[2026-01-06 14:45:30] INFO : BasePage Initialized
+[2026-01-06 14:45:30] INFO : BasePage Initialized
+[2026-01-06 14:45:30] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:45:31] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:32] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:45:32] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:45:32] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:33] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:45:33] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:33] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:45:34] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:34] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 14:45:35] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 14:45:35] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:35] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:45:35] INFO : Waiting for items to load after category selection
+[2026-01-06 14:45:35] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:45:36] INFO : Waiting for items to load after category selection
+[2026-01-06 14:53:04] INFO : BasePage Initialized
+[2026-01-06 14:53:04] INFO : BasePage Initialized
+[2026-01-06 14:53:04] INFO : BasePage Initialized
+[2026-01-06 14:53:04] INFO : BasePage Initialized
+[2026-01-06 14:53:04] INFO : BasePage Initialized
+[2026-01-06 14:53:04] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 14:53:05] INFO : Waiting for items to load after category selection
+[2026-01-06 14:53:06] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 14:53:07] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 14:53:07] INFO : Waiting for items to load after category selection
+[2026-01-06 14:53:08] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:53:08] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:53:08] INFO : Waiting for items to load after category selection
+[2026-01-06 14:53:09] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 14:53:09] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 14:53:09] INFO : Waiting for items to load after category selection
+[2026-01-06 14:53:10] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:53:10] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 14:53:10] INFO : Waiting for items to load after category selection
+[2026-01-06 15:02:59] INFO : BasePage Initialized
+[2026-01-06 15:02:59] INFO : BasePage Initialized
+[2026-01-06 15:02:59] INFO : BasePage Initialized
+[2026-01-06 15:02:59] INFO : BasePage Initialized
+[2026-01-06 15:02:59] INFO : BasePage Initialized
+[2026-01-06 15:02:59] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:03:01] INFO : Waiting for items to load after category selection
+[2026-01-06 15:03:02] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:03:02] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:03:02] INFO : Waiting for items to load after category selection
+[2026-01-06 15:03:03] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:03:03] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:03:04] INFO : Waiting for items to load after category selection
+[2026-01-06 15:03:04] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:03:04] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:03:04] INFO : Waiting for items to load after category selection
+[2026-01-06 15:03:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:03:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:03:05] INFO : Waiting for items to load after category selection
+[2026-01-06 15:06:41] INFO : BasePage Initialized
+[2026-01-06 15:06:41] INFO : BasePage Initialized
+[2026-01-06 15:06:41] INFO : BasePage Initialized
+[2026-01-06 15:06:41] INFO : BasePage Initialized
+[2026-01-06 15:06:41] INFO : BasePage Initialized
+[2026-01-06 15:06:41] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:06:42] INFO : Waiting for items to load after category selection
+[2026-01-06 15:06:43] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:06:44] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:06:44] INFO : Waiting for items to load after category selection
+[2026-01-06 15:06:45] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:06:45] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:06:45] INFO : Waiting for items to load after category selection
+[2026-01-06 15:06:46] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:06:46] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:06:46] INFO : Waiting for items to load after category selection
+[2026-01-06 15:06:47] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:06:47] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:06:47] INFO : SELECT : Cart 
+[2026-01-06 15:06:47] INFO : Selected Name: Cart
+[2026-01-06 15:06:47] INFO : Waiting for items to load after category selection
+[2026-01-06 15:07:42] INFO : BasePage Initialized
+[2026-01-06 15:07:42] INFO : BasePage Initialized
+[2026-01-06 15:07:42] INFO : BasePage Initialized
+[2026-01-06 15:07:42] INFO : BasePage Initialized
+[2026-01-06 15:07:42] INFO : BasePage Initialized
+[2026-01-06 15:07:42] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:07:43] INFO : Waiting for items to load after category selection
+[2026-01-06 15:07:44] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:07:45] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:07:45] INFO : Waiting for items to load after category selection
+[2026-01-06 15:07:46] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:07:46] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:07:46] INFO : Waiting for items to load after category selection
+[2026-01-06 15:07:47] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:07:47] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:07:47] INFO : Waiting for items to load after category selection
+[2026-01-06 15:07:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:07:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:07:48] INFO : SELECT : Cart 
+[2026-01-06 15:07:49] INFO : Selected Name: Cart
+[2026-01-06 15:07:49] INFO : Waiting for items to load after category selection
+[2026-01-06 15:11:38] INFO : BasePage Initialized
+[2026-01-06 15:11:38] INFO : BasePage Initialized
+[2026-01-06 15:11:38] INFO : BasePage Initialized
+[2026-01-06 15:11:38] INFO : BasePage Initialized
+[2026-01-06 15:11:38] INFO : BasePage Initialized
+[2026-01-06 15:11:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:11:57] INFO : BasePage Initialized
+[2026-01-06 15:11:57] INFO : BasePage Initialized
+[2026-01-06 15:11:57] INFO : BasePage Initialized
+[2026-01-06 15:11:57] INFO : BasePage Initialized
+[2026-01-06 15:11:57] INFO : BasePage Initialized
+[2026-01-06 15:11:57] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:11:58] INFO : Waiting for items to load after category selection
+[2026-01-06 15:11:59] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:11:59] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:11:59] INFO : Waiting for items to load after category selection
+[2026-01-06 15:12:00] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:12:00] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:12:01] INFO : Waiting for items to load after category selection
+[2026-01-06 15:12:01] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:12:02] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:12:02] INFO : Waiting for items to load after category selection
+[2026-01-06 15:12:02] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:12:02] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:12:03] INFO : SELECT : Cart 
+[2026-01-06 15:12:03] INFO : Selected Name: Cart
+[2026-01-06 15:12:03] INFO : Waiting for items to load after category selection
+[2026-01-06 15:13:38] INFO : BasePage Initialized
+[2026-01-06 15:13:38] INFO : BasePage Initialized
+[2026-01-06 15:13:38] INFO : BasePage Initialized
+[2026-01-06 15:13:38] INFO : BasePage Initialized
+[2026-01-06 15:13:38] INFO : BasePage Initialized
+[2026-01-06 15:13:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:13:39] INFO : Waiting for items to load after category selection
+[2026-01-06 15:13:40] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:13:41] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:13:41] INFO : Waiting for items to load after category selection
+[2026-01-06 15:13:42] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:13:42] INFO : Added device to cart: Samsung galaxy s6
+[2026-01-06 15:13:42] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:13:42] INFO : Waiting for items to load after category selection
+[2026-01-06 15:13:43] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:13:43] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:13:43] INFO : Waiting for items to load after category selection
+[2026-01-06 15:13:44] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:13:44] INFO : Added device to cart: Nokia lumia 1520
+[2026-01-06 15:13:44] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:13:44] INFO : SELECT : Cart 
+[2026-01-06 15:13:44] INFO : Selected Name: Cart
+[2026-01-06 15:13:44] INFO : Waiting for items to load after category selection
+[2026-01-06 15:24:03] INFO : BasePage Initialized
+[2026-01-06 15:24:03] INFO : BasePage Initialized
+[2026-01-06 15:24:03] INFO : BasePage Initialized
+[2026-01-06 15:24:03] INFO : BasePage Initialized
+[2026-01-06 15:24:03] INFO : BasePage Initialized
+[2026-01-06 15:24:03] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:24:04] INFO : Waiting for items to load after category selection
+[2026-01-06 15:24:05] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:24:05] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:24:05] INFO : Waiting for items to load after category selection
+[2026-01-06 15:24:06] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:24:06] INFO : Added device to cart: Samsung galaxy s6
+[2026-01-06 15:24:06] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:24:07] INFO : Waiting for items to load after category selection
+[2026-01-06 15:24:07] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:24:07] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:24:07] INFO : Waiting for items to load after category selection
+[2026-01-06 15:24:08] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:24:09] INFO : Added device to cart: Nokia lumia 1520
+[2026-01-06 15:24:09] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:24:09] INFO : SELECT : Cart 
+[2026-01-06 15:24:09] INFO : Selected Name: Cart
+[2026-01-06 15:24:09] INFO : Waiting for items to load after category selection
+[2026-01-06 15:31:49] INFO : BasePage Initialized
+[2026-01-06 15:31:49] INFO : BasePage Initialized
+[2026-01-06 15:31:49] INFO : BasePage Initialized
+[2026-01-06 15:31:49] INFO : BasePage Initialized
+[2026-01-06 15:31:49] INFO : BasePage Initialized
+[2026-01-06 15:31:49] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 15:31:50] INFO : Waiting for items to load after category selection
+[2026-01-06 15:31:50] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 15:31:51] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 15:31:51] INFO : Waiting for items to load after category selection
+[2026-01-06 15:31:52] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:31:52] INFO : Added device to cart: Samsung galaxy s6
+[2026-01-06 15:31:52] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:31:52] INFO : Waiting for items to load after category selection
+[2026-01-06 15:31:53] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 15:31:53] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 15:31:53] INFO : Waiting for items to load after category selection
+[2026-01-06 15:31:54] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:31:54] INFO : Added device to cart: Nokia lumia 1520
+[2026-01-06 15:31:54] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 15:31:54] INFO : SELECT : Cart 
+[2026-01-06 15:31:54] INFO : Selected Name: Cart
+[2026-01-06 15:31:54] INFO : Waiting for items to load after category selection
+[2026-01-06 16:22:31] INFO : BasePage Initialized
+[2026-01-06 16:22:31] INFO : BasePage Initialized
+[2026-01-06 16:22:31] INFO : BasePage Initialized
+[2026-01-06 16:22:31] INFO : BasePage Initialized
+[2026-01-06 16:22:31] INFO : BasePage Initialized
+[2026-01-06 16:22:31] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 16:22:32] INFO : Waiting for items to load after category selection
+[2026-01-06 16:22:33] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-06 16:22:33] INFO : Item clicked: Samsung galaxy s6
+[2026-01-06 16:22:33] INFO : Waiting for items to load after category selection
+[2026-01-06 16:22:34] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 16:22:34] INFO : Added device to cart: Samsung galaxy s6
+[2026-01-06 16:22:34] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 16:22:35] INFO : Waiting for items to load after category selection
+[2026-01-06 16:22:36] INFO : Searching for item across pages: Nokia lumia 1520
+[2026-01-06 16:22:36] INFO : Item clicked: Nokia lumia 1520
+[2026-01-06 16:22:36] INFO : Waiting for items to load after category selection
+[2026-01-06 16:22:37] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 16:22:37] INFO : Added device to cart: Nokia lumia 1520
+[2026-01-06 16:22:37] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 16:22:37] INFO : SELECT : Cart 
+[2026-01-06 16:22:38] INFO : Selected Name: Cart
+[2026-01-06 16:22:38] INFO : Waiting for items to load after category selection
+[2026-01-06 17:13:42] INFO : BasePage Initialized
+[2026-01-06 17:13:42] INFO : BasePage Initialized
+[2026-01-06 17:13:43] INFO : BasePage Initialized
+[2026-01-06 17:13:43] INFO : BasePage Initialized
+[2026-01-06 17:13:43] INFO : BasePage Initialized
+[2026-01-06 17:13:43] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:13:49] INFO : BasePage Initialized
+[2026-01-06 17:13:49] INFO : BasePage Initialized
+[2026-01-06 17:13:49] INFO : BasePage Initialized
+[2026-01-06 17:13:49] INFO : BasePage Initialized
+[2026-01-06 17:13:49] INFO : BasePage Initialized
+[2026-01-06 17:13:49] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:13:51] INFO : Waiting for items to load after category selection
+[2026-01-06 17:13:51] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:13:51] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:13:51] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:13:52] INFO : SELECT : Cart 
+[2026-01-06 17:13:53] INFO : Selected Name: Cart
+[2026-01-06 17:13:53] INFO : Waiting for items to load after category selection
+[2026-01-06 17:13:55] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:13:55] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:13:55] INFO : Alert message: Please fill out Name and Creditcard.
+[2026-01-06 17:13:55] ERROR : ERROR: Click Element
+[2026-01-06 17:23:20] INFO : BasePage Initialized
+[2026-01-06 17:23:20] INFO : BasePage Initialized
+[2026-01-06 17:23:20] INFO : BasePage Initialized
+[2026-01-06 17:23:20] INFO : BasePage Initialized
+[2026-01-06 17:23:20] INFO : BasePage Initialized
+[2026-01-06 17:23:20] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:23:21] INFO : Waiting for items to load after category selection
+[2026-01-06 17:23:22] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:23:22] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:23:22] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:23:25] INFO : Alert message: Product added.
+[2026-01-06 17:23:25] INFO : SELECT : Cart 
+[2026-01-06 17:23:25] INFO : Selected Name: Cart
+[2026-01-06 17:23:25] INFO : Waiting for items to load after category selection
+[2026-01-06 17:23:27] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:23:27] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:24:29] INFO : BasePage Initialized
+[2026-01-06 17:24:29] INFO : BasePage Initialized
+[2026-01-06 17:24:29] INFO : BasePage Initialized
+[2026-01-06 17:24:29] INFO : BasePage Initialized
+[2026-01-06 17:24:29] INFO : BasePage Initialized
+[2026-01-06 17:24:29] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:24:34] INFO : BasePage Initialized
+[2026-01-06 17:24:34] INFO : BasePage Initialized
+[2026-01-06 17:24:34] INFO : BasePage Initialized
+[2026-01-06 17:24:34] INFO : BasePage Initialized
+[2026-01-06 17:24:34] INFO : BasePage Initialized
+[2026-01-06 17:24:34] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:24:35] INFO : Waiting for items to load after category selection
+[2026-01-06 17:24:36] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:24:36] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:24:36] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:24:38] INFO : Alert message: Product added.
+[2026-01-06 17:24:38] INFO : SELECT : Cart 
+[2026-01-06 17:24:39] INFO : Selected Name: Cart
+[2026-01-06 17:24:39] INFO : Waiting for items to load after category selection
+[2026-01-06 17:24:40] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:24:40] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:25:50] INFO : BasePage Initialized
+[2026-01-06 17:25:50] INFO : BasePage Initialized
+[2026-01-06 17:25:50] INFO : BasePage Initialized
+[2026-01-06 17:25:50] INFO : BasePage Initialized
+[2026-01-06 17:25:50] INFO : BasePage Initialized
+[2026-01-06 17:25:50] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:25:51] INFO : Waiting for items to load after category selection
+[2026-01-06 17:25:52] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:25:52] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:25:52] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:25:55] INFO : Alert message: Product added.
+[2026-01-06 17:25:55] INFO : SELECT : Cart 
+[2026-01-06 17:25:55] INFO : Selected Name: Cart
+[2026-01-06 17:25:55] INFO : Waiting for items to load after category selection
+[2026-01-06 17:25:57] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:25:57] INFO : Waiting for items to load after category selection
+[2026-01-06 17:25:58] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:36:04] INFO : BasePage Initialized
+[2026-01-06 17:36:04] INFO : BasePage Initialized
+[2026-01-06 17:36:04] INFO : BasePage Initialized
+[2026-01-06 17:36:04] INFO : BasePage Initialized
+[2026-01-06 17:36:04] INFO : BasePage Initialized
+[2026-01-06 17:36:04] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:36:05] INFO : Waiting for items to load after category selection
+[2026-01-06 17:36:06] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:36:07] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:36:07] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:36:08] INFO : Alert message: Product added.
+[2026-01-06 17:36:08] INFO : SELECT : Cart 
+[2026-01-06 17:36:09] INFO : Selected Name: Cart
+[2026-01-06 17:36:09] INFO : Waiting for items to load after category selection
+[2026-01-06 17:36:11] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:36:11] INFO : Waiting for items to load after category selection
+[2026-01-06 17:36:11] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:39:36] INFO : BasePage Initialized
+[2026-01-06 17:39:36] INFO : BasePage Initialized
+[2026-01-06 17:39:36] INFO : BasePage Initialized
+[2026-01-06 17:39:36] INFO : BasePage Initialized
+[2026-01-06 17:39:36] INFO : BasePage Initialized
+[2026-01-06 17:39:36] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:39:48] INFO : BasePage Initialized
+[2026-01-06 17:39:48] INFO : BasePage Initialized
+[2026-01-06 17:39:48] INFO : BasePage Initialized
+[2026-01-06 17:39:48] INFO : BasePage Initialized
+[2026-01-06 17:39:48] INFO : BasePage Initialized
+[2026-01-06 17:39:48] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:39:49] INFO : Waiting for items to load after category selection
+[2026-01-06 17:39:49] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:39:50] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:39:50] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:39:51] INFO : Alert message: Product added.
+[2026-01-06 17:39:51] INFO : SELECT : Cart 
+[2026-01-06 17:39:52] INFO : Selected Name: Cart
+[2026-01-06 17:39:52] INFO : Waiting for items to load after category selection
+[2026-01-06 17:39:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:39:53] INFO : Waiting for items to load after category selection
+[2026-01-06 17:39:54] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:43:51] INFO : BasePage Initialized
+[2026-01-06 17:43:51] INFO : BasePage Initialized
+[2026-01-06 17:43:51] INFO : BasePage Initialized
+[2026-01-06 17:43:51] INFO : BasePage Initialized
+[2026-01-06 17:43:51] INFO : BasePage Initialized
+[2026-01-06 17:43:51] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:43:52] INFO : Waiting for items to load after category selection
+[2026-01-06 17:43:53] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:43:53] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:43:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:43:55] INFO : Alert message: Product added.
+[2026-01-06 17:43:55] INFO : SELECT : Cart 
+[2026-01-06 17:43:55] INFO : Selected Name: Cart
+[2026-01-06 17:43:55] INFO : Waiting for items to load after category selection
+[2026-01-06 17:43:57] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:43:57] INFO : Waiting for items to load after category selection
+[2026-01-06 17:43:58] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:44:45] INFO : BasePage Initialized
+[2026-01-06 17:44:46] INFO : BasePage Initialized
+[2026-01-06 17:44:46] INFO : BasePage Initialized
+[2026-01-06 17:44:46] INFO : BasePage Initialized
+[2026-01-06 17:44:46] INFO : BasePage Initialized
+[2026-01-06 17:44:46] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:44:47] INFO : Waiting for items to load after category selection
+[2026-01-06 17:44:48] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:44:48] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:44:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:44:51] INFO : Alert message: Product added.
+[2026-01-06 17:44:51] INFO : SELECT : Cart 
+[2026-01-06 17:44:51] INFO : Selected Name: Cart
+[2026-01-06 17:44:51] INFO : Waiting for items to load after category selection
+[2026-01-06 17:44:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:44:53] INFO : Waiting for items to load after category selection
+[2026-01-06 17:44:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:47:57] INFO : BasePage Initialized
+[2026-01-06 17:47:57] INFO : BasePage Initialized
+[2026-01-06 17:47:57] INFO : BasePage Initialized
+[2026-01-06 17:47:57] INFO : BasePage Initialized
+[2026-01-06 17:47:57] INFO : BasePage Initialized
+[2026-01-06 17:47:57] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-06 17:47:58] INFO : Waiting for items to load after category selection
+[2026-01-06 17:47:59] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-06 17:47:59] INFO : Item clicked: Iphone 6 32gb
+[2026-01-06 17:47:59] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:48:02] INFO : Alert message: Product added.
+[2026-01-06 17:48:02] INFO : SELECT : Cart 
+[2026-01-06 17:48:03] INFO : Selected Name: Cart
+[2026-01-06 17:48:03] INFO : Waiting for items to load after category selection
+[2026-01-06 17:48:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:48:05] INFO : Waiting for items to load after category selection
+[2026-01-06 17:48:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-06 17:48:05] INFO : ALERT MESSAGE: Please fill out Name and Creditcard.
+[2026-01-12 14:43:49] INFO : BasePage Initialized
+[2026-01-12 14:43:49] INFO : BasePage Initialized
+[2026-01-12 14:43:49] INFO : BasePage Initialized
+[2026-01-12 14:43:49] INFO : BasePage Initialized
+[2026-01-12 14:43:49] INFO : BasePage Initialized
+[2026-01-12 14:43:49] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 14:43:50] INFO : Waiting for items to load after category selection
+[2026-01-12 14:43:51] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 14:43:51] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 14:43:51] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:43:53] INFO : Alert message: Product added.
+[2026-01-12 14:43:53] INFO : SELECT : Cart 
+[2026-01-12 14:43:53] INFO : Selected Name: Cart
+[2026-01-12 14:43:53] INFO : Waiting for items to load after category selection
+[2026-01-12 14:43:55] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:43:55] INFO : Waiting for items to load after category selection
+[2026-01-12 14:43:56] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:46:31] INFO : BasePage Initialized
+[2026-01-12 14:46:31] INFO : BasePage Initialized
+[2026-01-12 14:46:31] INFO : BasePage Initialized
+[2026-01-12 14:46:31] INFO : BasePage Initialized
+[2026-01-12 14:46:31] INFO : BasePage Initialized
+[2026-01-12 14:46:31] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 14:46:32] INFO : Waiting for items to load after category selection
+[2026-01-12 14:46:33] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 14:46:34] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 14:46:34] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:46:35] INFO : Alert message: Product added.
+[2026-01-12 14:46:35] INFO : SELECT : Cart 
+[2026-01-12 14:46:36] INFO : Selected Name: Cart
+[2026-01-12 14:46:36] INFO : Waiting for items to load after category selection
+[2026-01-12 14:46:38] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:46:38] INFO : Waiting for items to load after category selection
+[2026-01-12 14:46:38] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:48:25] INFO : BasePage Initialized
+[2026-01-12 14:48:25] INFO : BasePage Initialized
+[2026-01-12 14:48:25] INFO : BasePage Initialized
+[2026-01-12 14:48:25] INFO : BasePage Initialized
+[2026-01-12 14:48:25] INFO : BasePage Initialized
+[2026-01-12 14:48:25] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 14:48:26] INFO : Waiting for items to load after category selection
+[2026-01-12 14:48:27] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 14:48:28] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 14:48:28] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:48:30] INFO : Alert message: Product added.
+[2026-01-12 14:48:30] INFO : SELECT : Cart 
+[2026-01-12 14:48:30] INFO : Selected Name: Cart
+[2026-01-12 14:48:30] INFO : Waiting for items to load after category selection
+[2026-01-12 14:48:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:48:32] INFO : Waiting for items to load after category selection
+[2026-01-12 14:48:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 14:48:33] INFO : ALERT MESSAGE: Please fill out Name and Creditcard.
+[2026-01-12 15:15:49] INFO : BasePage Initialized
+[2026-01-12 15:15:49] INFO : BasePage Initialized
+[2026-01-12 15:15:49] INFO : BasePage Initialized
+[2026-01-12 15:15:49] INFO : BasePage Initialized
+[2026-01-12 15:15:49] INFO : BasePage Initialized
+[2026-01-12 15:15:49] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:15:51] INFO : Waiting for items to load after category selection
+[2026-01-12 15:15:51] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 15:15:51] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 15:15:51] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:15:54] INFO : Alert message: Product added.
+[2026-01-12 15:15:54] INFO : SELECT : Cart 
+[2026-01-12 15:15:55] INFO : Selected Name: Cart
+[2026-01-12 15:15:55] INFO : Waiting for items to load after category selection
+[2026-01-12 15:15:57] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:15:57] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 15:15:57] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:02] INFO : BasePage Initialized
+[2026-01-12 15:46:02] INFO : BasePage Initialized
+[2026-01-12 15:46:02] INFO : BasePage Initialized
+[2026-01-12 15:46:02] INFO : BasePage Initialized
+[2026-01-12 15:46:02] INFO : BasePage Initialized
+[2026-01-12 15:46:02] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:46:09] INFO : BasePage Initialized
+[2026-01-12 15:46:09] INFO : BasePage Initialized
+[2026-01-12 15:46:09] INFO : BasePage Initialized
+[2026-01-12 15:46:09] INFO : BasePage Initialized
+[2026-01-12 15:46:09] INFO : BasePage Initialized
+[2026-01-12 15:46:09] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:46:26] INFO : BasePage Initialized
+[2026-01-12 15:46:26] INFO : BasePage Initialized
+[2026-01-12 15:46:26] INFO : BasePage Initialized
+[2026-01-12 15:46:26] INFO : BasePage Initialized
+[2026-01-12 15:46:26] INFO : BasePage Initialized
+[2026-01-12 15:46:26] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:46:27] INFO : Waiting for items to load after category selection
+[2026-01-12 15:46:28] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 15:46:29] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 15:46:29] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:46:31] INFO : Alert message: Product added.
+[2026-01-12 15:46:31] INFO : SELECT : Cart 
+[2026-01-12 15:46:31] INFO : Selected Name: Cart
+[2026-01-12 15:46:31] INFO : Waiting for items to load after category selection
+[2026-01-12 15:46:33] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:46:33] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:34] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:34] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:34] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:34] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:46:34] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 15:46:34] INFO : SUCCESS: Fill Input
+[2026-01-12 15:47:54] INFO : BasePage Initialized
+[2026-01-12 15:47:54] INFO : BasePage Initialized
+[2026-01-12 15:47:54] INFO : BasePage Initialized
+[2026-01-12 15:47:54] INFO : BasePage Initialized
+[2026-01-12 15:47:54] INFO : BasePage Initialized
+[2026-01-12 15:47:54] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:47:55] INFO : Waiting for items to load after category selection
+[2026-01-12 15:47:56] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 15:47:57] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 15:47:57] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:47:58] INFO : Alert message: Product added.
+[2026-01-12 15:47:58] INFO : SELECT : Cart 
+[2026-01-12 15:47:59] INFO : Selected Name: Cart
+[2026-01-12 15:47:59] INFO : Waiting for items to load after category selection
+[2026-01-12 15:48:01] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 15:48:01] INFO : SUCCESS: Fill Input
+[2026-01-12 15:48:01] INFO : Waiting for items to load after category selection
+[2026-01-12 15:48:01] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:52:45] INFO : BasePage Initialized
+[2026-01-12 15:52:45] INFO : BasePage Initialized
+[2026-01-12 15:52:45] INFO : BasePage Initialized
+[2026-01-12 15:52:45] INFO : BasePage Initialized
+[2026-01-12 15:52:45] INFO : BasePage Initialized
+[2026-01-12 15:52:45] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:52:46] INFO : Waiting for items to load after category selection
+[2026-01-12 15:52:47] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 15:52:48] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 15:52:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:52:49] INFO : Alert message: Product added.
+[2026-01-12 15:52:49] INFO : SELECT : Cart 
+[2026-01-12 15:52:50] INFO : Selected Name: Cart
+[2026-01-12 15:52:50] INFO : Waiting for items to load after category selection
+[2026-01-12 15:52:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:52:53] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 15:52:53] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:53] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 15:52:54] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:54] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 15:52:54] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:54] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 15:52:54] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:54] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 15:52:54] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:54] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 15:52:54] INFO : SUCCESS: Fill Input
+[2026-01-12 15:52:54] INFO : Waiting for items to load after category selection
+[2026-01-12 15:52:54] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:59:35] INFO : BasePage Initialized
+[2026-01-12 15:59:35] INFO : BasePage Initialized
+[2026-01-12 15:59:35] INFO : BasePage Initialized
+[2026-01-12 15:59:35] INFO : BasePage Initialized
+[2026-01-12 15:59:35] INFO : BasePage Initialized
+[2026-01-12 15:59:35] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 15:59:37] INFO : Waiting for items to load after category selection
+[2026-01-12 15:59:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 15:59:38] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 15:59:38] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:59:40] INFO : Alert message: Product added.
+[2026-01-12 15:59:40] INFO : SELECT : Cart 
+[2026-01-12 15:59:40] INFO : Selected Name: Cart
+[2026-01-12 15:59:40] INFO : Waiting for items to load after category selection
+[2026-01-12 15:59:42] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 15:59:42] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 15:59:43] INFO : SUCCESS: Fill Input
+[2026-01-12 15:59:43] INFO : Waiting for items to load after category selection
+[2026-01-12 15:59:43] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:00:16] INFO : BasePage Initialized
+[2026-01-12 16:00:16] INFO : BasePage Initialized
+[2026-01-12 16:00:16] INFO : BasePage Initialized
+[2026-01-12 16:00:16] INFO : BasePage Initialized
+[2026-01-12 16:00:16] INFO : BasePage Initialized
+[2026-01-12 16:00:16] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:00:17] INFO : Waiting for items to load after category selection
+[2026-01-12 16:00:53] INFO : BasePage Initialized
+[2026-01-12 16:00:53] INFO : BasePage Initialized
+[2026-01-12 16:00:53] INFO : BasePage Initialized
+[2026-01-12 16:00:53] INFO : BasePage Initialized
+[2026-01-12 16:00:53] INFO : BasePage Initialized
+[2026-01-12 16:00:53] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:00:54] INFO : Waiting for items to load after category selection
+[2026-01-12 16:00:55] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:00:55] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:00:55] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:00:58] INFO : Alert message: Product added.
+[2026-01-12 16:00:58] INFO : SELECT : Cart 
+[2026-01-12 16:00:59] INFO : Selected Name: Cart
+[2026-01-12 16:00:59] INFO : Waiting for items to load after category selection
+[2026-01-12 16:01:01] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:01:01] INFO : SUCCESS: Fill Input
+[2026-01-12 16:01:01] INFO : Waiting for items to load after category selection
+[2026-01-12 16:01:01] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:04:47] INFO : BasePage Initialized
+[2026-01-12 16:04:47] INFO : BasePage Initialized
+[2026-01-12 16:04:47] INFO : BasePage Initialized
+[2026-01-12 16:04:47] INFO : BasePage Initialized
+[2026-01-12 16:04:47] INFO : BasePage Initialized
+[2026-01-12 16:04:47] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:04:53] INFO : BasePage Initialized
+[2026-01-12 16:04:53] INFO : BasePage Initialized
+[2026-01-12 16:04:53] INFO : BasePage Initialized
+[2026-01-12 16:04:53] INFO : BasePage Initialized
+[2026-01-12 16:04:53] INFO : BasePage Initialized
+[2026-01-12 16:04:53] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:05:15] INFO : BasePage Initialized
+[2026-01-12 16:05:15] INFO : BasePage Initialized
+[2026-01-12 16:05:15] INFO : BasePage Initialized
+[2026-01-12 16:05:15] INFO : BasePage Initialized
+[2026-01-12 16:05:15] INFO : BasePage Initialized
+[2026-01-12 16:05:15] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:05:16] INFO : Waiting for items to load after category selection
+[2026-01-12 16:05:17] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:05:18] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:05:18] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:05:20] INFO : Alert message: Product added.
+[2026-01-12 16:05:20] INFO : SELECT : Cart 
+[2026-01-12 16:05:20] INFO : Selected Name: Cart
+[2026-01-12 16:05:20] INFO : Waiting for items to load after category selection
+[2026-01-12 16:05:22] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:05:22] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:05:23] INFO : SUCCESS: Fill Input
+[2026-01-12 16:05:23] INFO : Waiting for items to load after category selection
+[2026-01-12 16:05:23] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:14:47] INFO : BasePage Initialized
+[2026-01-12 16:14:47] INFO : BasePage Initialized
+[2026-01-12 16:14:47] INFO : BasePage Initialized
+[2026-01-12 16:14:47] INFO : BasePage Initialized
+[2026-01-12 16:14:47] INFO : BasePage Initialized
+[2026-01-12 16:14:47] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:14:48] INFO : Waiting for items to load after category selection
+[2026-01-12 16:14:49] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:14:49] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:14:49] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:14:51] INFO : Alert message: Product added.
+[2026-01-12 16:14:51] INFO : SELECT : Cart 
+[2026-01-12 16:14:51] INFO : Selected Name: Cart
+[2026-01-12 16:14:51] INFO : Waiting for items to load after category selection
+[2026-01-12 16:14:53] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:14:53] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:14:54] INFO : SUCCESS: Fill Input
+[2026-01-12 16:14:54] INFO : Waiting for items to load after category selection
+[2026-01-12 16:14:54] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:18:05] INFO : BasePage Initialized
+[2026-01-12 16:18:05] INFO : BasePage Initialized
+[2026-01-12 16:18:05] INFO : BasePage Initialized
+[2026-01-12 16:18:05] INFO : BasePage Initialized
+[2026-01-12 16:18:05] INFO : BasePage Initialized
+[2026-01-12 16:18:05] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:18:13] INFO : BasePage Initialized
+[2026-01-12 16:18:13] INFO : BasePage Initialized
+[2026-01-12 16:18:13] INFO : BasePage Initialized
+[2026-01-12 16:18:13] INFO : BasePage Initialized
+[2026-01-12 16:18:13] INFO : BasePage Initialized
+[2026-01-12 16:18:13] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:18:14] INFO : Waiting for items to load after category selection
+[2026-01-12 16:18:15] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:18:15] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:18:15] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:18:18] INFO : Alert message: Product added.
+[2026-01-12 16:18:18] INFO : SELECT : Cart 
+[2026-01-12 16:18:18] INFO : Selected Name: Cart
+[2026-01-12 16:18:18] INFO : Waiting for items to load after category selection
+[2026-01-12 16:18:20] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:18:20] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:18:20] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:20] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:18:20] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:20] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:18:20] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:20] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:18:21] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:21] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:18:21] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:21] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:18:21] INFO : SUCCESS: Fill Input
+[2026-01-12 16:18:21] INFO : Waiting for items to load after category selection
+[2026-01-12 16:18:21] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:20:58] INFO : BasePage Initialized
+[2026-01-12 16:20:58] INFO : BasePage Initialized
+[2026-01-12 16:20:58] INFO : BasePage Initialized
+[2026-01-12 16:20:58] INFO : BasePage Initialized
+[2026-01-12 16:20:58] INFO : BasePage Initialized
+[2026-01-12 16:20:58] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:20:59] INFO : Waiting for items to load after category selection
+[2026-01-12 16:21:00] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:21:00] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:21:00] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:21:02] INFO : Alert message: Product added.
+[2026-01-12 16:21:02] INFO : SELECT : Cart 
+[2026-01-12 16:21:02] INFO : Selected Name: Cart
+[2026-01-12 16:21:02] INFO : Waiting for items to load after category selection
+[2026-01-12 16:21:04] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:21:05] INFO : SUCCESS: Fill Input
+[2026-01-12 16:21:05] INFO : Waiting for items to load after category selection
+[2026-01-12 16:21:05] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:23:40] INFO : BasePage Initialized
+[2026-01-12 16:23:40] INFO : BasePage Initialized
+[2026-01-12 16:23:40] INFO : BasePage Initialized
+[2026-01-12 16:23:40] INFO : BasePage Initialized
+[2026-01-12 16:23:40] INFO : BasePage Initialized
+[2026-01-12 16:23:40] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-12 16:23:41] INFO : Waiting for items to load after category selection
+[2026-01-12 16:23:42] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-12 16:23:43] INFO : Item clicked: Iphone 6 32gb
+[2026-01-12 16:23:43] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:23:45] INFO : Alert message: Product added.
+[2026-01-12 16:23:45] INFO : SELECT : Cart 
+[2026-01-12 16:23:45] INFO : Selected Name: Cart
+[2026-01-12 16:23:45] INFO : Waiting for items to load after category selection
+[2026-01-12 16:23:47] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:23:47] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-01-12 16:23:48] INFO : SUCCESS: Fill Input
+[2026-01-12 16:23:48] INFO : Waiting for items to load after category selection
+[2026-01-12 16:23:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-12 16:23:48] INFO : ACTION -> CLICKING: Click Element
+[2026-01-13 18:20:22] INFO : BasePage Initialized
+[2026-01-13 18:20:22] INFO : BasePage Initialized
+[2026-01-13 18:20:22] INFO : BasePage Initialized
+[2026-01-13 18:20:22] INFO : BasePage Initialized
+[2026-01-13 18:20:22] INFO : BasePage Initialized
+[2026-01-13 18:20:22] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:23] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:24] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-13 18:20:24] INFO : Item clicked: Iphone 6 32gb
+[2026-01-13 18:20:24] INFO : ACTION -> CLICKING: Click Element
+[2026-01-13 18:20:26] INFO : Alert message: Product added.
+[2026-01-13 18:20:26] INFO : SELECT : Cart 
+[2026-01-13 18:20:27] INFO : Selected Name: Cart
+[2026-01-13 18:20:27] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:28] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:28] INFO : Number of devices found: 1
+[2026-01-13 18:20:29] INFO : Number of devices found: 1
+[2026-01-13 18:20:30] INFO : BasePage Initialized
+[2026-01-13 18:20:30] INFO : BasePage Initialized
+[2026-01-13 18:20:30] INFO : BasePage Initialized
+[2026-01-13 18:20:30] INFO : BasePage Initialized
+[2026-01-13 18:20:30] INFO : BasePage Initialized
+[2026-01-13 18:20:30] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:31] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:32] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-01-13 18:20:32] INFO : Item clicked: Iphone 6 32gb
+[2026-01-13 18:20:32] INFO : ACTION -> CLICKING: Click Element
+[2026-01-13 18:20:34] ERROR : ERROR: Click Element
+[2026-01-13 18:20:35] INFO : BasePage Initialized
+[2026-01-13 18:20:35] INFO : BasePage Initialized
+[2026-01-13 18:20:35] INFO : BasePage Initialized
+[2026-01-13 18:20:35] INFO : BasePage Initialized
+[2026-01-13 18:20:35] INFO : BasePage Initialized
+[2026-01-13 18:20:35] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:36] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:37] INFO : Searching for item across pages: Samsung galaxy s6
+[2026-01-13 18:20:37] INFO : Item clicked: Samsung galaxy s6
+[2026-01-13 18:20:37] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:38] INFO : BasePage Initialized
+[2026-01-13 18:20:38] INFO : BasePage Initialized
+[2026-01-13 18:20:38] INFO : BasePage Initialized
+[2026-01-13 18:20:38] INFO : BasePage Initialized
+[2026-01-13 18:20:38] INFO : BasePage Initialized
+[2026-01-13 18:20:38] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:41] INFO : BasePage Initialized
+[2026-01-13 18:20:41] INFO : BasePage Initialized
+[2026-01-13 18:20:41] INFO : BasePage Initialized
+[2026-01-13 18:20:41] INFO : BasePage Initialized
+[2026-01-13 18:20:41] INFO : BasePage Initialized
+[2026-01-13 18:20:41] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:42] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:43] INFO : BasePage Initialized
+[2026-01-13 18:20:43] INFO : BasePage Initialized
+[2026-01-13 18:20:43] INFO : BasePage Initialized
+[2026-01-13 18:20:43] INFO : BasePage Initialized
+[2026-01-13 18:20:43] INFO : BasePage Initialized
+[2026-01-13 18:20:43] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:44] INFO : Waiting for items to load after category selection
+[2026-01-13 18:20:46] INFO : BasePage Initialized
+[2026-01-13 18:20:46] INFO : BasePage Initialized
+[2026-01-13 18:20:46] INFO : BasePage Initialized
+[2026-01-13 18:20:46] INFO : BasePage Initialized
+[2026-01-13 18:20:46] INFO : BasePage Initialized
+[2026-01-13 18:20:46] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:47] INFO : SELECT : Phones 
+[2026-01-13 18:20:48] INFO : BasePage Initialized
+[2026-01-13 18:20:48] INFO : BasePage Initialized
+[2026-01-13 18:20:48] INFO : BasePage Initialized
+[2026-01-13 18:20:48] INFO : BasePage Initialized
+[2026-01-13 18:20:48] INFO : BasePage Initialized
+[2026-01-13 18:20:48] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:51] INFO : BasePage Initialized
+[2026-01-13 18:20:51] INFO : BasePage Initialized
+[2026-01-13 18:20:51] INFO : BasePage Initialized
+[2026-01-13 18:20:51] INFO : BasePage Initialized
+[2026-01-13 18:20:51] INFO : BasePage Initialized
+[2026-01-13 18:20:51] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:53] INFO : BasePage Initialized
+[2026-01-13 18:20:53] INFO : BasePage Initialized
+[2026-01-13 18:20:53] INFO : BasePage Initialized
+[2026-01-13 18:20:53] INFO : BasePage Initialized
+[2026-01-13 18:20:53] INFO : BasePage Initialized
+[2026-01-13 18:20:53] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:55] INFO : BasePage Initialized
+[2026-01-13 18:20:55] INFO : BasePage Initialized
+[2026-01-13 18:20:55] INFO : BasePage Initialized
+[2026-01-13 18:20:55] INFO : BasePage Initialized
+[2026-01-13 18:20:55] INFO : BasePage Initialized
+[2026-01-13 18:20:55] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:56] INFO : BasePage Initialized
+[2026-01-13 18:20:56] INFO : BasePage Initialized
+[2026-01-13 18:20:56] INFO : BasePage Initialized
+[2026-01-13 18:20:56] INFO : BasePage Initialized
+[2026-01-13 18:20:56] INFO : BasePage Initialized
+[2026-01-13 18:20:56] INFO : Navigate to URL: https://demoblaze.com
+[2026-01-13 18:20:58] INFO : BasePage Initialized
+[2026-01-13 18:20:58] INFO : BasePage Initialized
+[2026-01-13 18:20:58] INFO : BasePage Initialized
+[2026-01-13 18:20:58] INFO : BasePage Initialized
+[2026-01-13 18:20:58] INFO : BasePage Initialized
+[2026-01-13 18:20:58] INFO : Navigate to URL: https://demoblaze.com

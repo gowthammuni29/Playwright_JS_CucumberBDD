@@ -1,0 +1,31 @@
+{
+  "name": "javascript_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.first.js",
+  "scripts": {
+    "bdd:test": "cucumber-js",
+    "bdd:smoke": "cucumber-js --tags \"@smoke\"",
+    "bdd:regression": "cucumber-js --tags \"@regression\"",
+    "bdd:sanity": "cucumber-js --tags \"@sanity\"",
+    "bdd:report": "node generate-report.js",
+    "bdd:run": "npm run bdd:test && npm run bdd:report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.2.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.6.2",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.3",
+    "multiple-cucumber-html-reporter": "^3.9.3",
+    "playwright": "^1.57.0",
+    "rimraf": "^6.1.2"
+  },
+  "dependencies": {
+    "winston": "^3.19.0"
+  }
+}

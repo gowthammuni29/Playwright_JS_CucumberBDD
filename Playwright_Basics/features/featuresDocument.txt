@@ -1,0 +1,122 @@
+
+A. Gherkin Language (MUST KNOW)
+
+1.Scenario is used when we want to validate a behavior with a single set of data. 
+2.Scenario Outline is used for data-driven testing where the same behavior
+ is executed multiple times using different data from the Examples table.
+
+Scenario = behavior once
+Scenario Outline = same behavior, many data. 
+------------------------------------------------------------------------
+1. FEATURE: 
+Feature: Describes what functionality is being tested.Only one Feature per file.
+Example: 
+Feature: Product Details Page
+  This feature validates product information displayed on PDP
+------------------------------------------------------------------------
+2. BACKGROUND:
+background: Defines common preconditions that run before every scenario in the feature.
+    *Executes before each Scenario
+    *Contains Given steps only
+    *No assertions, no actions
+Example:
+Background:
+  Given user has an active authenticated session
+-----------------------------------------------------------------------------
+3. SCENARIO: 
+Scenario: Defines one specific behavior with one set of data.
+    *Runs once
+    *Should test one business outcome
+    *Should have one main Then
+Example:
+Scenario: Validate PDP for iPhone
+  When user selects device "Iphone 6 32gb"
+  Then product details should be displayed correctly on PDP
+--------------------------------------------------------------------------------
+4.Scenario Outline: 
+Scenario Outline:Used for data-driven testing (same behavior, multiple data).
+    *Uses placeholders < >
+    *Must include Examples
+    *Runs once per example row
+Example:
+Scenario Outline: Validate PDP for multiple devices
+  When user selects device "<deviceName>"
+  Then product details should be displayed correctly
+
+Examples:
+  | deviceName |
+  | Iphone 6 32gb |
+  | Samsung galaxy s6 |
+-------------------------------------------------------------------------------------
+5.EXAMPLES 
+Examples: Supplies data to Scenario Outline.
+    *Header row is mandatory
+    *Column name must match < >
+    *One row = one execution
+    Examples:
+| deviceName |
+| Iphone 6 |
+----------------------------------------------------------------------------------------
+6.GIVEN:
+Given: Sets the initial context or state.
+    *No UI actions
+    *No assertions
+    *No clicks
+Example: Given user has an active authenticated session
+-----------------------------------------------------------------------------------------
+7. WHEN:
+When: Represents a user action or event.
+    *Should change application state
+    *No assertions
+    *One logical action
+Example: When user selects category "Phones"
+------------------------------------------------------------------------------------------
+8.THEN:
+Then: Validates the expected outcome.
+    *Assertions only
+    *No UI actions
+    *Deterministic result
+Example:Then product details should be displayed correctly on PDP
+------------------------------------------------------------------------------------------
+9. AND:
+And: Continues the previous step type (Given, When, or Then).
+    *Does not change meaning
+    *Used to improve readability
+Example:When user selects category "Phones"
+        And user selects device "Iphone 6 32gb"
+-----------------------------------------------------------------------------------------------
+10. BUT:
+But: Same as And, but expresses contrast or exception.
+Example:  Then login should fail
+          But error message should be displayed
+------------------------------------------------------------------------------------------------                                    
+11. RULE: (Advanced / Optional)
+Rule: Groups scenarios under a business rule.
+Example: 
+Rule: Only logged-in users can view PDP
+
+  Scenario: Authenticated user views PDP
+    Given user is logged in
+    When user selects device "Iphone 6"
+    Then product details should be displayed
+------------------------------------------------------------------------------------------------
+12. TAGS (@tag)  
+Controls test execution and grouping.
+Can be applied to Feature or Scenario
+Used for filtering
+Example: 
+@sanity @regression
+Scenario: Validate PDP
+-------------------------------------------------------------------------------------------------
+13. COMMENTS(#): Documentation only, ignored by Cucumber.
+Example: # This scenario validates PDP details
+------------------------------------------------------------------------------------------------
+14. DATA TABLES
+Pass structured data to steps.
+Example:
+Then user should see product details:
+  | field | value |
+  | Name  | Iphone 6 |
+  | Price | $650 |
+-------------------------------------------------------------------------------------------------  
+

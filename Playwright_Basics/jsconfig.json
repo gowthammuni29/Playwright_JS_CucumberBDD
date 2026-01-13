@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "module": "ESNext",
+    "target": "ES2022",
+    "moduleResolution": "Bundler",
+    "types": ["node"]
+  },
+  "include": [
+    "**/*.js",
+    "support/**/*.d.ts"
+  ]
+} 
