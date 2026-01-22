@@ -14,7 +14,7 @@ When('user selects category {string}', async function (category) {
 Then('phones details only should show on the Page',async function () {
   const world = getWorld(this);
   await world.homePage.validatedisplayedItems();
-});
+}); 
 
 When('user selects device {string}', async function(deviceName) {
   const world = getWorld(this);
