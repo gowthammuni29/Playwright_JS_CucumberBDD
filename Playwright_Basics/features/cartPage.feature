@@ -37,7 +37,7 @@ Feature: Cart Page Validations
     
     Scenario: Validate the purchase form without required fields
         When user selects device "Iphone 6 32gb"
-        And adds it to cart with alert message confirmation
+        And adds it to cart with alert message confirmation with yes
         And user navigate to the cart page
         And user clicked place order button
         And user clicked purchase without updating the input field an alert should be shown
