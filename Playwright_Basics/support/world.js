@@ -41,7 +41,12 @@ class CustomWorld {
   }
 
   async cleanup() {
+    // Check if 'this.browser' exists before trying to close it
+  if (this.browser) {
     await this.browser.close();
+    // Optional: Set to null so you know it's closed if called again
+    this.browser = null; 
+  }
   }
 }
 
