@@ -3265,3 +3265,42 @@ Call log:
 [2026-01-13 18:20:58] INFO : BasePage Initialized
 [2026-01-13 18:20:58] INFO : BasePage Initialized
 [2026-01-13 18:20:58] INFO : Navigate to URL: https://demoblaze.com
+[2026-05-15 14:01:15] INFO : BasePage Initialized
+[2026-05-15 14:01:15] INFO : BasePage Initialized
+[2026-05-15 14:01:15] INFO : BasePage Initialized
+[2026-05-15 14:01:15] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 14:01:18] INFO : SELECT : Log in 
+[2026-05-15 14:01:18] INFO : Selected Name: Log in
+[2026-05-15 14:01:18] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 14:01:19] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:19] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 14:01:20] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:20] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 14:01:35] INFO : BasePage Initialized
+[2026-05-15 14:01:35] INFO : Navigate to URL: https://demoblaze.com
+[2026-05-15 14:01:37] INFO : BasePage Initialized
+[2026-05-15 14:01:37] INFO : BasePage Initialized
+[2026-05-15 14:01:37] INFO : Waiting for items to load after category selection
+[2026-05-15 14:01:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-05-15 14:01:39] INFO : Item clicked: Iphone 6 32gb
+[2026-05-15 14:01:39] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 14:01:40] INFO : Alert message: Product added.
+[2026-05-15 14:01:40] INFO : SELECT : Cart 
+[2026-05-15 14:01:41] INFO : Selected Name: Cart
+[2026-05-15 14:01:41] INFO : Waiting for items to load after category selection
+[2026-05-15 14:01:47] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> Gowtham
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> USA
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> New York
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> 1234567890123456
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> 12
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : ACTION -> FILL : Fill Input --> 2025
+[2026-05-15 14:01:47] INFO : SUCCESS: Fill Input
+[2026-05-15 14:01:47] INFO : Waiting for items to load after category selection
+[2026-05-15 14:01:47] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 14:01:48] INFO : ACTION -> CLICKING: Click Element
