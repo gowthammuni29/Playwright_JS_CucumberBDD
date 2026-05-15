@@ -4,12 +4,12 @@
   "description": "",
   "main": "1.first.js",
   "scripts": {
-    "bdd:test": "cucumber-js",
-    "bdd:smoke": "cucumber-js --tags \"@smoke\"",
-    "bdd:regression": "cucumber-js --tags \"@regression\"",
-    "bdd:sanity": "cucumber-js --tags \"@sanity\"",
-    "bdd:report": "node generate-report.js",
-    "bdd:run": "npm run bdd:test && npm run bdd:report"
+    "bdd:generate": "bddgen",
+    "bdd:test": "bddgen && playwright test",
+    "bdd:smoke": "bddgen && playwright test --grep @smoke",
+    "bdd:regression": "bddgen && playwright test --grep @regression",
+    "bdd:sanity": "bddgen && playwright test --grep @sanity",
+    "bdd:report": "playwright show-report"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +26,7 @@
     "rimraf": "^6.1.2"
   },
   "dependencies": {
+    "playwright-bdd": "^8.5.1",
     "winston": "^3.19.0"
   }
 }
