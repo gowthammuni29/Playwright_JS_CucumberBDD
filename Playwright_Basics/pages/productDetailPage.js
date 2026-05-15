@@ -1,5 +1,4 @@
 import { BasePage } from './basePage.js';
-import { HomePage } from './homePage.js';
 /** @typedef {import('@playwright/test').Page} Page */
 
 export class ProductDetailPage extends BasePage{

@@ -15,15 +15,14 @@ export class HomePage extends BasePage{
    */
     constructor(page){
         /** @type {Page} */
-        super(page);}//why super bcuz we are extending basepage class here.
-        //we can access all the methods of basepage class using super
-        categoreisAll=this.page.locator("//div[@class='list-group']/a[@onclick]");
-        homePageTabsAll=this.page.locator("//div[@id='navbarExample']/ul/li/a");
-        devicesAll =this.page.locator("//div[@id='tbodyid']/div/div/div/h4/a");
-        nextButton=this.page.locator("//button[@id='next2']");
-        
+        super(page);
+        this.categoreisAll=this.page.locator("//div[@class='list-group']/a[@onclick]");
+        this.homePageTabsAll=this.page.locator("//div[@id='navbarExample']/ul/li/a");
+        this.devicesAll =this.page.locator("//div[@id='tbodyid']/div/div/div/h4/a");
+        this.nextButton=this.page.locator("//button[@id='next2']");
+    }
 
-    
+
 
     async openHomePage(){
         await this.navigate('https://demoblaze.com');
