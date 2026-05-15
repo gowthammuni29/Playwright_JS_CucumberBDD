@@ -1,6 +1,5 @@
 import { expect } from '@playwright/test';
 import { BasePage } from './basePage.js';
-import logger from '../helpers/logger.js';
 import { ORDER_DETAILS } from '../tests/utils/phones.data.js';
 /** @typedef {import('@playwright/test').Page} Page */
 

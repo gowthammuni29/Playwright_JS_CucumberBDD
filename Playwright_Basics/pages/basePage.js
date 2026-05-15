@@ -4,8 +4,6 @@
 /** @typedef {import('@playwright/test').Page} Page */
 import { expect } from '@playwright/test';
 import logger from '../helpers/logger.js';
-import path from 'path';
-import { text } from 'stream/consumers';
 
 export class BasePage {
     /**
@@ -167,7 +165,7 @@ export class BasePage {
       if (!(await nextButtonLocator.isVisible()) || !(await nextButtonLocator.isEnabled())) {
         throw new Error(`Item "${textToSelect}" not found across pages`);
       }
-      const firstItemTextBefore = await locator.first().textContent();
+      const firstItemTextBefore = await locator.first().textContent() ?? '';
       
       await nextButtonLocator.click();
       logger.info('Navigating to next page');
@@ -226,6 +224,9 @@ export class BasePage {
     return await locator.isEnabled();
   }
 
+  /**
+   * @param {Locator} locator
+   */
   async getCartItemCount(locator) {
   return await locator.count();
 }
@@ -313,7 +314,7 @@ export class BasePage {
     * @param {Locator} locator
     */
   async getNumericValue(locator){
-    const text=await locator.textContent();
+    const text=await locator.textContent() ?? '';
     return Number(text.replace(/[^\d]/g, '').trim());
   }
   
@@ -420,10 +421,11 @@ export class BasePage {
     await dialog.accept();
   }
 
-   /**
-   * Assert element is hidden
+     /**
+   * assert elements contains text
    * @param {Locator} locator
-   */ 
+   * @param {string} expectedMessage
+   */
   async handleAlertsCartPage(locator,expectedMessage) {
     let alertHandled = false;
 
@@ -455,6 +457,10 @@ export class BasePage {
      SCREENSHOT & DEBUG
      ========================== */
 
+  /**
+   * Handle and assert alert dialog
+   * @param {string} name
+   */  
   async captureScreenshot(name) {
     const path = `screenshots/${name}-${Date.now()}.png`;
     await this.page.screenshot({ path, fullPage: true });
@@ -519,9 +525,6 @@ export class BasePage {
 
   /**
    * @param {string} expectedItems
-   */
-
-   /**
    * @param {Locator} itemsLocator
    */
   async validateDisplayedItemsMatchExpected(itemsLocator, expectedItems) {
@@ -554,7 +557,7 @@ export class BasePage {
       }
       logger.info('Validation completed successfully');
     }catch(error){
-      logger.error(`Validation failed: ${error.message}`);
+      logger.error(`Validation failed: ${error instanceof Error ? error.message : String(error)}`);
       throw error;
     }
 

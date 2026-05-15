@@ -1,0 +1,5 @@
+Command	What it does
+npm run bdd:test	Generate specs + run all tests
+npm run bdd:smoke	Run @smoke tagged tests
+npm run bdd:regression	Run @regression tagged tests
+npm run bdd:report	Open the Playwright HTML report
