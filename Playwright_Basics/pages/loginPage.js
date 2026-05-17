@@ -6,6 +6,7 @@
 //To define the type of page parameter we can use JSDoc comments as shown below:
 import { expect } from '@playwright/test';
 import { BasePage } from '../pages/basePage.js';
+import { envConfig } from '../config/envConfig.js';
 /** @typedef {import('@playwright/test').Page} Page */
 export class LoginPage extends BasePage {
    /**
@@ -15,7 +16,7 @@ export class LoginPage extends BasePage {
         /** @type {Page} */
         super(page);//why super bcuz we are extending basepage class here.
         //we can access all the methods of basepage class using super
-        this.url='https://demoblaze.com/';
+        this.url = envConfig.baseURL;
         this.loginLink = page.locator('#login2');
         this.userNameInput =page.locator("//input[@id='loginusername']");
         this.passwordInput = page.locator("//input[@id='loginpassword']");
