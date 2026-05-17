@@ -8,6 +8,7 @@ import { BasePage } from '../pages/basePage.js';
 /** @typedef {import('@playwright/test').Page} Page */
 
 import { PHONES_LIST } from '../tests/utils/phones.data.js';
+import { envConfig } from '../config/envConfig.js';
 
 export class HomePage extends BasePage{
     /**
@@ -25,7 +26,7 @@ export class HomePage extends BasePage{
 
 
     async openHomePage(){
-        await this.navigate('https://demoblaze.com');
+        await this.navigate(envConfig.baseURL);
     }
 
     async selectCateogry(catergoryName){
