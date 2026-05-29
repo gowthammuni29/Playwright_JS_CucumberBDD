@@ -9,6 +9,18 @@ import { AuthApiService } from '../api/services/authApiService.js';
 import { envConfig } from '../config/envConfig.js';
 
 export const test = base.extend({
+    // ── No-Auth Page (fresh context, no storageState — for login page tests) ──
+    noAuthPage: [async ({ browser }, use) => {
+        const context = await browser.newContext();
+        const page = await context.newPage();
+        await use(page);
+        await context.close();
+    }, { scope: 'test' }],
+
+    loginPageNoAuth: async ({ noAuthPage }, use) => {
+        await use(new LoginPage(noAuthPage));
+    },
+
     // ── UI Fixtures ──────────────────────────────────────────────────────────
     loginPage: async ({ page }, use) => {
         await use(new LoginPage(page));
